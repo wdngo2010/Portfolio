@@ -157,6 +157,7 @@ SELECT
   base.time_created,
   base.time_modified,
   base.time_last_closed,
+  DATE_DIFF(base.time_last_closed, base.time_created, 'day') time_to_close
   base.source,
   base.phase,
   base.result,

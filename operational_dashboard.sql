@@ -125,13 +125,23 @@ assets AS (
     END) AS victim_count,
     COUNT(CASE
       WHEN user_type = 'bad actor' THEN 1
-    END) AS bad_actor_count
+    END) AS bad_actor_count,
+  COUNT(CASE
+      WHEN enforcement_type = 'disabled' THEN 1
+    END) AS disabled_count,
+    COUNT(CASE
+      WHEN enforcement_type = 'monitoring' THEN 1
+    END) AS monitoring_count,
+      COUNT(CASE
+      WHEN enforcement_type = 'deleted' THEN 1
+    END) AS deleted_count,
   FROM asset_labels
   WHERE
     ds = '<LATEST_DS:asset_labels>'
   GROUP BY
     1
 )
+-- FINAL BASE TO ASSETS
 SELECT
   base.id,
   base.team_id,
@@ -153,7 +163,10 @@ SELECT
   base.investigation_id,
   assets.total_assets,
   assets.victim_count,
-  assets.bad_actor_count
+  assets.bad_actor_count,
+  assets.disabled_count,
+  assets.monitoring_count,
+  assets.deleted_count
 FROM final_base base
 LEFT JOIN assets assets
   ON base.investigation_id = assets.investigation_id

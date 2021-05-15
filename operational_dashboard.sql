@@ -19,11 +19,11 @@ WITH base AS (
     ON ops.id = metric.id
   --JOIN TABLE FOR LEGACY CASES from xdb database
   LEFT JOIN xdb.ops xdbcase
-    ON a.case_id = xdbcase.case_id
+    ON a.id = xdbcase.id
   WHERE
     ops.ds = '<LATEST_DS:operations>'
     AND metric.ds = '<LATEST_DS:operations_calculations>'
-    AND xdbcase.legacy_id IS NULL -- remove all leon migrated tickets
+    AND xdbcase.legacy_id IS NULL -- remove all legacy tickets
     AND ops.type_id IN (
       123, -- CIA
       345, -- FBI
@@ -103,9 +103,9 @@ final_base AS (
     time_created,
     time_modified,
     time_last_closed,
-    try(selected_fields[4174199325987191][1]) AS source,
-    try(selected_fields[324879835548426][1]) AS phase,
-    try(selected_fields[1201475780209221][1]) AS result,
+    try(selected_fields[111][1]) AS source,
+    try(selected_fields[333][1]) AS phase,
+    try(selected_fields[222][1]) AS result,
     investigation_id
   FROM base
   LEFT JOIN owner

@@ -3,7 +3,6 @@ WITH base AS (
   SELECT
     ops.id,
     ops.teams_id,
-    ops.type_id,
     ops.teams_name,
     ops.case_number,
     ops.owner_id,
@@ -12,7 +11,7 @@ WITH base AS (
     DATE(FROM_UNIXTIME(ops.time_created)) time_created,
     DATE(FROM_UNIXTIME(ops.time_modified)) time_modified,
     DATE(FROM_UNIXTIME(metric.time_last_closed)) time_last_closed,
-    ops.type_name,
+    ops.subtype_name,
     ops.field_array
   FROM operations ops
   LEFT JOIN operations_calculations metric
@@ -24,7 +23,7 @@ WITH base AS (
     ops.ds = '<LATEST_DS:operations>'
     AND metric.ds = '<LATEST_DS:operations_calculations>'
     AND xdbcase.legacy_id IS NULL -- remove all legacy tickets
-    AND ops.type_id IN (
+    AND ops.team_id IN (
       123, -- CIA
       345, -- FBI
       678, -- NAVY
@@ -90,8 +89,7 @@ fields AS (
 final_base AS (
   SELECT
     id,
-    type_id,
-    team_id,
+    subtype_name,
     case_number,
     first_name,
     last_name,
@@ -99,6 +97,7 @@ final_base AS (
     owner_name,
     priority,
     status,
+    team_id,
     team_name,
     time_created,
     time_modified,
@@ -145,7 +144,7 @@ assets AS (
 SELECT
   base.id,
   base.team_id,
-  base.type_id,
+  base.subtype_name,
   base.case_number,
   base.first_name,
   base.last_name,

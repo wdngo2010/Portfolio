@@ -1,0 +1,1000 @@
+id,case_number,team_id,team_name,owner_id,first_name,last_name,owner_name,priority,status,subtype_name,time_created,time_first_touched (mins),time_last_closed,time_to_close (day),source,phase,result,investigation_id,total_assets,victim_count,bad_actor_count,disabled_count,monitoring_count,deleted_count
+1611,2025,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,espionage,5/3/2019,945.00,5/15/2019,12.00,Industry Partners,1,triage,C1425,8226,3709,4517,3918,510,6
+2464,3966,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,hackers,2/15/2019,635.00,2/26/2019,11.00,Industry Partners,3,passed to another team,C2163,390,43,347,219,50,50
+2861,2356,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,hackers,2/21/2020,"1,202.00",3/16/2020,24.00,Government Partners,3,passed to another team,C2068,7544,1950,5594,5290,257,6
+2309,4397,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,child safety,5/28/2019,534.00,6/5/2019,8.00,News,4,enforced,C2702,6189,1085,5104,5006,90,3
+1673,2802,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,dangerous actors,4/8/2019,49.00,4/23/2019,15.00,News,2,investigating,C2473,2296,1100,1196,1190,6,0
+916,2791,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,human exploitation,1/16/2020,490.00,2/13/2020,28.00,News,4,enforced,C2448,8998,467,8531,1204,3535,1619
+9,1075,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,espionage,12/28/2019,"1,292.00",12/31/2019,3.00,Leads,1,triage,C2015,8201,786,7415,228,3742,2309
+763,2081,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Closed,malware,1/10/2019,"1,256.00",1/17/2019,7.00,Government Partners,4,enforced,C2677,5794,4181,1613,588,383,107
+2717,1691,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,human exploitation,1/10/2020,982.00,1/14/2020,4.00,Industry Partners,1,triage,C2286,8382,1807,6575,6302,129,35
+663,2717,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,human exploitation,11/4/2019,"1,397.00",11/10/2019,6.00,Industry Partners,3,passed to another team,C2087,5286,3124,2162,312,1605,231
+949,3757,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,dangerous actors,3/23/2020,"1,111.00",4/17/2020,25.00,Discovery,4,enforced,C2276,2558,2266,292,159,90,17
+2208,2707,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,human exploitation,9/18/2019,"1,291.00",9/20/2019,2.00,News,4,enforced,C2151,8279,6970,1309,940,328,22
+1273,2492,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,malware,4/28/2020,58.00,5/15/2020,17.00,News,3,passed to another team,C1744,2141,622,1519,966,84,253
+1776,3979,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,1/4/2019,"1,295.00",1/13/2019,9.00,News,3,passed to another team,C1946,8949,2565,6384,3121,2736,400
+1209,4952,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,dangerous actors,7/15/2019,414.00,8/10/2019,26.00,Discovery,4,enforced,C2882,9177,6930,2247,656,642,9
+164,2648,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,espionage,2/14/2020,438.00,2/22/2020,8.00,Industry Partners,1,triage,C2979,1394,8,1386,584,163,267
+1565,3694,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,espionage,6/16/2019,5.00,6/28/2019,12.00,Government Partners,3,passed to another team,C1162,1710,1277,433,263,0,73
+2484,3732,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,hackers,1/5/2019,"1,032.00",2/2/2019,28.00,Government Partners,1,triage,C1656,4346,2054,2292,172,1203,333
+2637,1947,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,malware,10/25/2019,746.00,10/27/2019,2.00,News,3,passed to another team,C2738,3745,2401,1344,631,543,143
+1942,4727,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,dangerous actors,5/9/2019,582.00,5/10/2019,1.00,Leads,2,investigating,C1680,7336,7301,35,1,23,5
+2822,4528,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,human exploitation,2/5/2020,325.00,2/6/2020,1.00,Industry Partners,2,investigating,C2679,1278,616,662,235,390,31
+997,1491,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,child safety,5/13/2019,926.00,5/25/2019,12.00,Government Partners,4,enforced,C2502,6773,1175,5598,2564,2691,338
+2079,2028,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,human exploitation,3/25/2019,250.00,3/31/2019,6.00,Government Partners,2,investigating,C2516,2661,547,2114,1901,83,112
+672,1618,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,hackers,1/9/2019,658.00,1/11/2019,2.00,Discovery,2,investigating,C1979,4206,2836,1370,750,515,41
+2854,3055,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,child safety,2/18/2020,581.00,3/14/2020,25.00,Discovery,3,passed to another team,C1988,3716,1552,2164,2066,38,57
+734,4349,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,dangerous actors,8/29/2019,285.00,9/15/2019,17.00,News,2,investigating,C2007,2296,62,2234,513,202,300
+1572,4441,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,dangerous actors,2/25/2020,13.00,2/27/2020,2.00,Discovery,3,passed to another team,C2626,477,50,427,219,160,27
+2706,4694,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,child safety,5/14/2019,"1,118.00",5/18/2019,4.00,News,1,triage,C1421,4373,3890,483,156,82,53
+1397,3833,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,malware,5/25/2019,319.00,5/31/2019,6.00,Leads,1,triage,C2719,2558,2279,279,34,213,12
+1286,1406,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,espionage,8/20/2019,909.00,8/30/2019,10.00,Leads,3,passed to another team,C2077,6103,2369,3734,1647,1818,159
+289,2908,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,human exploitation,12/12/2019,840.00,12/20/2019,8.00,Discovery,4,enforced,C1517,1873,1689,184,33,103,46
+2554,1478,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,dangerous actors,3/8/2020,"1,265.00",3/9/2020,1.00,Government Partners,3,passed to another team,C1497,2329,1890,439,326,7,11
+1070,4359,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,dangerous actors,7/6/2019,"1,263.00",7/20/2019,14.00,Discovery,1,triage,C2171,2788,1084,1704,767,662,228
+122,3623,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,espionage,4/10/2019,690.00,5/6/2019,26.00,Industry Partners,1,triage,C2558,5552,1085,4467,987,2647,242
+422,1743,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,espionage,12/15/2019,685.00,1/5/2020,21.00,Discovery,1,triage,C2047,3737,3577,160,151,9,0
+142,2729,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,hackers,2/10/2020,"1,081.00",3/8/2020,27.00,Discovery,2,investigating,C2723,9891,8309,1582,220,763,159
+2088,2177,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,dangerous actors,3/25/2019,"1,109.00",4/21/2019,27.00,Industry Partners,4,enforced,C2935,8802,7053,1749,1217,432,89
+439,3136,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,malware,12/2/2019,268.00,12/7/2019,5.00,News,4,enforced,C2691,1020,661,359,313,31,10
+2589,1860,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,espionage,3/2/2020,943.00,3/4/2020,2.00,Government Partners,3,passed to another team,C1202,7596,533,7063,6868,6,110
+2060,3042,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,espionage,1/5/2019,458.00,1/18/2019,13.00,Leads,1,triage,C1797,1605,855,750,22,725,3
+2146,3405,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,espionage,12/17/2019,456.00,1/2/2020,16.00,Discovery,4,enforced,C2704,3388,916,2472,2057,25,116
+2648,3148,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,human exploitation,10/21/2019,"1,136.00",11/1/2019,11.00,Discovery,3,passed to another team,C2090,8867,1670,7197,1055,2909,1265
+270,4401,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,dangerous actors,11/14/2019,"1,379.00",12/4/2019,20.00,Government Partners,4,enforced,C1067,1939,1316,623,351,175,43
+584,3011,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,hackers,8/14/2019,"1,367.00",8/29/2019,15.00,Discovery,2,investigating,C1133,9529,8330,1199,496,520,182
+138,2400,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,hackers,4/4/2019,483.00,4/15/2019,11.00,Government Partners,3,passed to another team,C2524,5032,1828,3204,2662,167,123
+1837,1567,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,dangerous actors,8/28/2019,350.00,9/25/2019,28.00,Leads,2,investigating,C2588,9977,8291,1686,223,555,397
+2074,3245,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,dangerous actors,5/27/2019,"1,063.00",6/3/2019,7.00,News,1,triage,C2617,4649,2032,2617,2192,140,250
+1525,2107,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,child safety,5/19/2019,877.00,6/5/2019,17.00,Leads,3,passed to another team,C1799,3213,1995,1218,564,176,286
+573,1397,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,human exploitation,9/4/2019,274.00,9/23/2019,19.00,Government Partners,2,investigating,C1654,3832,2791,1041,38,724,4
+1091,2874,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Open,human exploitation,5/6/2019,986.00,5/30/2019,24.00,Government Partners,4,enforced,C2587,6586,2487,4099,461,677,1135
+1504,1302,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,malware,3/1/2019,327.00,3/24/2019,23.00,Government Partners,4,enforced,C2627,1250,190,1060,911,1,2
+1534,1811,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,hackers,7/16/2019,534.00,7/27/2019,11.00,Industry Partners,3,passed to another team,C1230,5701,2095,3606,1312,1403,410
+742,4143,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,human exploitation,7/21/2019,"1,187.00",8/3/2019,13.00,News,1,triage,C1234,3574,2244,1330,252,800,232
+1795,3032,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,espionage,2/6/2020,"1,375.00",3/6/2020,29.00,Leads,1,triage,C2389,2190,1467,723,76,456,156
+2150,1310,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,human exploitation,3/3/2020,341.00,3/24/2020,21.00,News,2,investigating,C1825,9753,6781,2972,785,121,1533
+201,1919,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,human exploitation,5/7/2019,523.00,5/12/2019,5.00,Discovery,1,triage,C2955,5037,2311,2726,1192,1083,364
+1825,4931,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,malware,5/22/2019,"1,382.00",6/3/2019,12.00,News,2,investigating,C1042,6665,4829,1836,480,881,112
+66,1813,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,hackers,8/20/2019,100.00,9/10/2019,21.00,News,3,passed to another team,C2396,8629,5178,3451,867,149,294
+2011,1727,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,dangerous actors,7/8/2019,224.00,8/5/2019,28.00,Industry Partners,4,enforced,C1237,5211,2009,3202,2044,847,296
+287,1560,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,dangerous actors,2/6/2020,"1,138.00",2/22/2020,16.00,Industry Partners,2,investigating,C1002,6542,5583,959,642,124,5
+2254,3891,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,hackers,5/11/2019,373.00,5/29/2019,18.00,News,2,investigating,C1758,2517,750,1767,759,76,335
+2124,1473,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,malware,2/5/2019,116.00,2/6/2019,1.00,Leads,3,passed to another team,C2037,6342,1656,4686,638,1713,1267
+2857,4381,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,hackers,10/13/2019,640.00,10/20/2019,7.00,News,1,triage,C1616,6936,2626,4310,1510,2001,133
+1587,2112,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,hackers,2/15/2020,583.00,3/4/2020,18.00,Leads,1,triage,C2685,8817,5079,3738,2451,31,374
+725,3013,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Closed,hackers,1/4/2020,"1,208.00",1/12/2020,8.00,Industry Partners,3,passed to another team,C1362,2872,1770,1102,789,119,169
+859,2528,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,malware,9/19/2019,484.00,9/27/2019,8.00,News,2,investigating,C1800,4040,1036,3004,451,58,303
+252,4675,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,malware,3/18/2019,"1,323.00",4/10/2019,23.00,Discovery,1,triage,C1845,9879,9246,633,426,39,27
+2350,4059,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,child safety,3/14/2019,"1,124.00",3/30/2019,16.00,News,3,passed to another team,C1973,5090,2282,2808,1678,257,624
+2308,3057,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,malware,3/7/2020,95.00,3/23/2020,16.00,Government Partners,4,enforced,C2569,8996,4896,4100,214,3407,437
+986,2218,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,dangerous actors,4/22/2019,"1,321.00",4/24/2019,2.00,Industry Partners,4,enforced,C1877,7350,6696,654,307,27,196
+1011,3445,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,human exploitation,3/2/2019,710.00,3/23/2019,21.00,News,3,passed to another team,C2234,7175,356,6819,4317,1558,89
+1788,1734,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,malware,3/9/2020,477.00,3/29/2020,20.00,Industry Partners,2,investigating,C1862,7615,2861,4754,1677,2743,122
+1128,1412,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,hackers,2/1/2020,"1,228.00",2/3/2020,2.00,Industry Partners,4,enforced,C2502,3067,1799,1268,989,108,119
+1013,3278,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,malware,10/22/2019,609.00,11/19/2019,28.00,Leads,3,passed to another team,C2545,6475,5403,1072,908,9,155
+2504,3970,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,espionage,12/18/2019,164.00,12/22/2019,4.00,Leads,1,triage,C1731,3669,2922,747,144,520,42
+2059,4995,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,child safety,2/12/2019,244.00,2/20/2019,8.00,Government Partners,4,enforced,C1766,4119,2409,1710,1352,128,36
+86,4896,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,7/25/2019,654.00,8/1/2019,7.00,News,4,enforced,C2243,2642,1268,1374,1218,61,72
+2884,1733,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,6/24/2019,"1,188.00",7/6/2019,12.00,Discovery,2,investigating,C1662,5615,313,5302,2145,2481,507
+2317,2167,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,child safety,5/1/2019,41.00,5/23/2019,22.00,Government Partners,2,investigating,C2296,3750,3608,142,1,90,45
+2175,3033,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,hackers,7/13/2019,"1,193.00",8/8/2019,26.00,Discovery,4,enforced,C1261,280,241,39,25,9,0
+1028,3581,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,malware,7/17/2019,"1,392.00",7/27/2019,10.00,Leads,1,triage,C2324,2175,278,1897,1149,293,47
+368,2732,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,dangerous actors,10/4/2019,414.00,11/3/2019,30.00,News,4,enforced,C1418,9998,7337,2661,2142,457,37
+1343,2682,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,espionage,8/24/2019,406.00,8/30/2019,6.00,News,2,investigating,C2838,3312,3099,213,60,138,9
+1546,4888,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,espionage,4/21/2019,72.00,5/15/2019,24.00,Industry Partners,4,enforced,C2304,5168,5128,40,27,11,1
+1737,2007,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,dangerous actors,7/3/2019,511.00,7/28/2019,25.00,Government Partners,1,triage,C2742,5612,829,4783,1711,2277,381
+2376,4763,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,malware,12/16/2019,988.00,12/26/2019,10.00,Leads,1,triage,C1836,8698,2372,6326,4763,865,14
+2422,2338,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,malware,2/3/2020,196.00,2/20/2020,17.00,Industry Partners,1,triage,C1507,5256,3193,2063,1906,112,20
+391,3607,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,malware,5/5/2019,546.00,5/23/2019,18.00,News,1,triage,C2425,2480,1015,1465,1383,40,31
+2971,4418,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,dangerous actors,3/24/2019,711.00,4/2/2019,9.00,Discovery,2,investigating,C2671,5472,3021,2451,963,395,832
+32,3133,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,malware,7/3/2019,359.00,7/30/2019,27.00,Discovery,4,enforced,C2428,4515,2358,2157,1134,31,645
+1168,3358,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,child safety,2/23/2019,639.00,3/20/2019,25.00,News,4,enforced,C2414,677,12,665,335,148,42
+2962,4627,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,human exploitation,5/16/2019,294.00,6/11/2019,26.00,News,3,passed to another team,C1337,2250,265,1985,1217,198,485
+690,1186,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,espionage,4/6/2019,279.00,4/9/2019,3.00,Industry Partners,2,investigating,C1689,191,20,171,156,8,0
+1852,1231,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,malware,4/27/2019,68.00,5/24/2019,27.00,Government Partners,4,enforced,C1882,6453,4045,2408,818,1088,457
+2554,3769,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,espionage,3/20/2020,148.00,3/29/2020,9.00,Government Partners,2,investigating,C1321,2348,1901,447,149,114,0
+1448,1597,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,hackers,2/5/2020,717.00,2/9/2020,4.00,Leads,4,enforced,C2909,6454,6212,242,63,109,53
+2396,4159,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,child safety,6/16/2019,956.00,6/24/2019,8.00,Discovery,3,passed to another team,C1028,7475,5616,1859,1598,124,69
+2492,2790,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,hackers,11/8/2019,625.00,11/23/2019,15.00,Government Partners,4,enforced,C2668,3592,6,3586,2552,578,221
+2332,1587,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,dangerous actors,12/26/2019,"1,368.00",1/6/2020,11.00,News,2,investigating,C2339,6115,601,5514,1680,1451,998
+2601,2711,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,human exploitation,6/3/2019,"1,325.00",6/4/2019,1.00,Discovery,4,enforced,C1502,3271,1409,1862,1205,438,207
+1361,1400,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,malware,10/30/2019,221.00,11/21/2019,22.00,News,4,enforced,C2133,4674,4634,40,8,13,10
+1469,2318,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,hackers,5/2/2019,418.00,6/1/2019,30.00,Discovery,1,triage,C1089,3039,2624,415,254,15,76
+214,2658,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,espionage,9/27/2019,698.00,10/27/2019,30.00,News,1,triage,C2161,5383,1452,3931,47,2195,492
+1482,3528,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,dangerous actors,12/28/2019,"1,197.00",12/29/2019,1.00,Leads,3,passed to another team,C2322,3322,383,2939,528,224,1411
+263,2628,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,child safety,9/1/2019,"1,003.00",9/22/2019,21.00,Discovery,2,investigating,C2642,6770,4588,2182,1408,172,61
+828,1818,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,dangerous actors,9/7/2019,"1,325.00",9/27/2019,20.00,Discovery,4,enforced,C1425,132,94,38,6,24,3
+181,3423,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,child safety,4/1/2020,916.00,4/30/2020,29.00,News,4,enforced,C2040,8344,2581,5763,214,2913,2388
+1336,4360,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,hackers,10/26/2019,"1,257.00",10/28/2019,2.00,Industry Partners,2,investigating,C1592,5205,1536,3669,3323,314,12
+2491,1645,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,hackers,10/6/2019,646.00,10/11/2019,5.00,News,3,passed to another team,C2808,3736,2186,1550,1471,34,36
+2076,4069,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,malware,10/27/2019,727.00,10/30/2019,3.00,Government Partners,1,triage,C1535,2614,513,2101,1319,509,212
+1083,1442,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,espionage,2/24/2020,"1,197.00",3/14/2020,19.00,Industry Partners,1,triage,C2355,4046,2957,1089,311,176,388
+2404,1464,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,child safety,1/6/2020,"1,018.00",1/26/2020,20.00,Industry Partners,4,enforced,C2135,5197,5,5192,1164,1237,569
+108,3140,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,dangerous actors,2/5/2019,470.00,2/20/2019,15.00,Industry Partners,4,enforced,C2303,2996,808,2188,1459,536,134
+2749,1983,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,espionage,4/1/2019,738.00,4/6/2019,5.00,News,2,investigating,C2620,6667,5093,1574,1009,355,209
+2064,4159,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,espionage,6/8/2019,768.00,6/18/2019,10.00,Leads,2,investigating,C2346,1703,1451,252,162,51,36
+1508,1621,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,dangerous actors,4/6/2020,669.00,4/29/2020,23.00,Government Partners,4,enforced,C1254,799,289,510,156,345,9
+1124,4459,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,child safety,9/17/2019,950.00,9/29/2019,12.00,Industry Partners,1,triage,C2406,9176,3124,6052,3963,284,1210
+2725,3955,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,human exploitation,12/4/2019,233.00,12/26/2019,22.00,News,3,passed to another team,C1609,7213,5035,2178,2099,62,12
+86,4139,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,12/18/2019,161.00,1/9/2020,22.00,Industry Partners,1,triage,C2409,1074,177,897,240,572,38
+2508,3106,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,human exploitation,9/12/2019,875.00,10/6/2019,24.00,News,1,triage,C2681,6792,6744,48,5,36,0
+1378,4313,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,human exploitation,12/4/2019,877.00,12/16/2019,12.00,Industry Partners,1,triage,C1606,4347,3458,889,594,103,7
+914,2573,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,espionage,8/27/2019,117.00,9/2/2019,6.00,Government Partners,2,investigating,C1125,1187,105,1082,964,15,23
+123,2999,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,dangerous actors,2/20/2019,580.00,2/26/2019,6.00,Leads,1,triage,C2203,5271,4217,1054,351,69,324
+186,4621,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,dangerous actors,7/22/2019,"1,205.00",8/11/2019,20.00,Leads,2,investigating,C2790,7511,4994,2517,926,1432,23
+960,1840,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,child safety,12/28/2019,380.00,1/17/2020,20.00,Leads,4,enforced,C1862,1972,714,1258,431,738,39
+2107,4771,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,malware,1/18/2020,769.00,2/9/2020,22.00,News,4,enforced,C2900,8190,4464,3726,1203,222,530
+296,4205,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,espionage,5/8/2019,487.00,5/31/2019,23.00,Leads,4,enforced,C2738,5971,3869,2102,224,1646,174
+1794,3477,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,human exploitation,9/12/2019,321.00,9/23/2019,11.00,News,1,triage,C1307,7854,4325,3529,1615,1315,357
+1673,3046,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,dangerous actors,2/2/2020,"1,280.00",2/27/2020,25.00,News,2,investigating,C1888,6736,5616,1120,529,196,356
+2752,3159,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,espionage,7/14/2019,187.00,7/24/2019,10.00,Discovery,2,investigating,C2052,9912,5506,4406,3746,184,176
+421,1115,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,child safety,2/28/2020,"1,281.00",3/3/2020,4.00,Government Partners,1,triage,C2598,806,417,389,319,42,21
+1435,1090,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,espionage,3/26/2019,970.00,4/15/2019,20.00,Industry Partners,1,triage,C2266,2433,2089,344,265,49,23
+587,3364,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,dangerous actors,11/8/2019,"1,173.00",11/22/2019,14.00,News,2,investigating,C1161,6647,1643,5004,1125,3012,219
+1996,1242,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,human exploitation,4/14/2020,22.00,4/23/2020,9.00,Discovery,2,investigating,C1772,4839,3006,1833,1627,127,13
+1114,4935,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,human exploitation,12/12/2019,774.00,12/21/2019,9.00,News,2,investigating,C1514,6499,5386,1113,1022,10,3
+1531,3832,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,child safety,1/1/2020,955.00,1/4/2020,3.00,Industry Partners,2,investigating,C2123,1289,1008,281,187,0,63
+279,4947,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,espionage,4/11/2019,"1,105.00",5/9/2019,28.00,Government Partners,2,investigating,C1653,7809,2885,4924,3424,936,95
+2749,1158,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,dangerous actors,8/26/2019,"1,384.00",9/2/2019,7.00,Industry Partners,3,passed to another team,C2564,3633,1852,1781,145,1068,554
+2712,3623,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,espionage,8/21/2019,6.00,9/7/2019,17.00,Discovery,3,passed to another team,C2599,7522,5435,2087,1931,53,38
+2006,2321,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,malware,11/8/2019,"1,325.00",11/27/2019,19.00,News,3,passed to another team,C2627,7642,2317,5325,1674,2035,293
+827,3231,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,human exploitation,6/24/2019,"1,044.00",7/2/2019,8.00,News,3,passed to another team,C1675,4113,1510,2603,2601,2,0
+2557,1761,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,hackers,8/16/2019,111.00,9/8/2019,23.00,Discovery,2,investigating,C1445,6711,1575,5136,3523,12,278
+1893,1385,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,child safety,8/10/2019,746.00,8/19/2019,9.00,Industry Partners,2,investigating,C1740,7837,1208,6629,2172,1767,249
+2357,4440,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,espionage,12/3/2019,270.00,12/13/2019,10.00,Leads,3,passed to another team,C2273,3539,1869,1670,783,524,215
+2086,3459,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,child safety,4/1/2019,840.00,4/21/2019,20.00,Discovery,4,enforced,C1703,2029,1469,560,513,43,3
+2912,1081,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,dangerous actors,10/24/2019,649.00,11/4/2019,11.00,Discovery,2,investigating,C2299,3207,2120,1087,345,3,423
+2917,2976,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,dangerous actors,2/6/2020,167.00,3/1/2020,24.00,Industry Partners,1,triage,C2879,6738,3207,3531,2177,473,203
+1586,2680,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,human exploitation,1/22/2019,844.00,2/21/2019,30.00,News,4,enforced,C2005,5741,5313,428,132,16,30
+2212,4037,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,human exploitation,5/6/2019,188.00,5/11/2019,5.00,Discovery,4,enforced,C1538,8627,3790,4837,4583,189,52
+1086,2613,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,1/23/2019,"1,388.00",2/15/2019,23.00,Government Partners,1,triage,C2887,8462,8053,409,216,154,32
+1973,1879,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,dangerous actors,7/3/2019,181.00,7/18/2019,15.00,Industry Partners,1,triage,C1196,2942,771,2171,1818,239,49
+2920,2863,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,espionage,12/3/2019,387.00,12/18/2019,15.00,Discovery,1,triage,C2204,7191,335,6856,4441,2270,93
+793,1959,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,espionage,1/3/2020,1.00,1/11/2020,8.00,Industry Partners,3,passed to another team,C1760,5084,1484,3600,2006,1056,125
+1878,1343,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,human exploitation,6/10/2019,343.00,6/13/2019,3.00,Discovery,3,passed to another team,C2958,6177,2646,3531,3345,166,1
+1120,2318,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,dangerous actors,1/20/2020,114.00,2/9/2020,20.00,Leads,3,passed to another team,C2613,9037,5793,3244,2625,65,478
+2533,4827,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,human exploitation,7/27/2019,117.00,8/14/2019,18.00,News,2,investigating,C2924,4651,218,4433,2457,1476,211
+312,4021,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,hackers,12/28/2019,656.00,1/11/2020,14.00,News,3,passed to another team,C2071,87,42,45,11,1,33
+538,1104,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,human exploitation,4/2/2020,680.00,4/22/2020,20.00,Discovery,3,passed to another team,C1366,8174,6541,1633,452,513,556
+2768,4074,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,malware,1/4/2020,454.00,1/17/2020,13.00,Industry Partners,3,passed to another team,C1386,8800,1739,7061,3159,290,134
+1852,2402,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,malware,3/17/2020,239.00,4/15/2020,29.00,Government Partners,3,passed to another team,C1857,7006,4229,2777,2710,46,12
+1997,2097,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,child safety,4/26/2020,539.00,5/26/2020,30.00,Industry Partners,4,enforced,C2815,9079,2801,6278,6262,4,10
+2883,1553,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,hackers,3/25/2020,363.00,4/5/2020,11.00,Leads,3,passed to another team,C2132,5692,735,4957,1698,1838,403
+1622,2283,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,human exploitation,1/3/2020,"1,187.00",2/2/2020,30.00,Industry Partners,2,investigating,C2135,1849,1087,762,368,205,11
+727,3777,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,malware,7/8/2019,851.00,7/25/2019,17.00,News,1,triage,C2583,6071,3840,2231,1035,677,177
+2429,3556,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,hackers,3/6/2020,168.00,3/7/2020,1.00,Industry Partners,3,passed to another team,C1754,2488,1313,1175,1164,9,1
+1931,2980,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,malware,7/7/2019,964.00,8/2/2019,26.00,Leads,2,investigating,C1963,3265,1142,2123,1068,957,68
+376,1626,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,child safety,6/10/2019,"1,388.00",6/30/2019,20.00,Discovery,3,passed to another team,C2117,7203,2656,4547,1022,386,2987
+604,4314,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Closed,child safety,5/23/2019,342.00,5/26/2019,3.00,News,3,passed to another team,C1228,4243,2304,1939,247,994,523
+543,2631,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,dangerous actors,6/7/2019,404.00,6/29/2019,22.00,Leads,3,passed to another team,C1980,1322,161,1161,744,411,0
+1558,2151,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,hackers,3/28/2020,963.00,3/30/2020,2.00,News,2,investigating,C2955,7254,4615,2639,416,1260,534
+1389,3775,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,espionage,7/19/2019,711.00,7/25/2019,6.00,Leads,2,investigating,C2225,5418,1013,4405,4110,87,44
+2943,3947,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,malware,5/3/2019,"1,264.00",5/25/2019,22.00,Government Partners,2,investigating,C2941,2609,1659,950,909,2,4
+2894,3652,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,malware,10/12/2019,941.00,10/18/2019,6.00,News,2,investigating,C2767,4734,2904,1830,278,1332,114
+458,4507,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,human exploitation,2/2/2020,615.00,2/20/2020,18.00,News,1,triage,C1859,89,37,52,42,10,0
+2869,2463,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,human exploitation,6/2/2019,424.00,6/10/2019,8.00,Discovery,2,investigating,C2846,9336,3699,5637,4290,1009,158
+2405,2467,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,dangerous actors,6/26/2019,595.00,7/21/2019,25.00,Leads,3,passed to another team,C2251,6109,3970,2139,748,549,86
+1275,2033,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,child safety,10/21/2019,123.00,10/30/2019,9.00,Industry Partners,2,investigating,C1091,2917,2007,910,882,24,3
+2257,1295,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,hackers,10/20/2019,640.00,11/16/2019,27.00,Industry Partners,4,enforced,C1625,1032,398,634,29,454,59
+2933,4234,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,dangerous actors,1/6/2020,245.00,1/15/2020,9.00,Leads,4,enforced,C1422,9890,3659,6231,1480,4214,256
+1914,4331,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,malware,7/29/2019,"1,319.00",8/9/2019,11.00,Industry Partners,3,passed to another team,C1759,1790,708,1082,192,16,401
+1969,2228,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,5/29/2019,"1,276.00",6/18/2019,20.00,Discovery,2,investigating,C1595,9648,264,9384,353,9017,3
+2901,2629,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,dangerous actors,3/25/2019,689.00,4/8/2019,14.00,Government Partners,2,investigating,C1749,6188,2531,3657,1136,1307,901
+2218,4680,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,hackers,8/15/2019,97.00,9/2/2019,18.00,Government Partners,4,enforced,C2427,8184,2221,5963,4241,228,980
+390,4071,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,espionage,12/10/2019,"1,369.00",12/18/2019,8.00,Industry Partners,2,investigating,C1445,9806,8560,1246,17,459,178
+2023,3130,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,human exploitation,1/23/2019,817.00,1/29/2019,6.00,News,3,passed to another team,C2822,6216,1655,4561,3767,243,255
+1394,2883,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,espionage,12/24/2019,481.00,12/27/2019,3.00,Leads,3,passed to another team,C1390,9187,7935,1252,533,468,210
+1435,1918,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,hackers,10/1/2019,915.00,10/22/2019,21.00,News,2,investigating,C1238,6559,5238,1321,301,539,3
+2967,3936,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,hackers,3/5/2019,887.00,3/9/2019,4.00,News,2,investigating,C2335,7931,2103,5828,1246,3766,217
+1095,2937,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,malware,10/18/2019,995.00,11/10/2019,23.00,Government Partners,4,enforced,C1713,1917,1487,430,83,157,77
+696,3586,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,child safety,4/12/2020,501.00,4/21/2020,9.00,Government Partners,4,enforced,C1160,6454,3502,2952,625,400,1470
+2517,1071,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,espionage,8/22/2019,746.00,9/20/2019,29.00,Leads,1,triage,C1393,3196,1536,1660,1418,22,36
+2663,1106,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,child safety,8/14/2019,216.00,9/8/2019,25.00,Discovery,2,investigating,C1270,2917,2114,803,300,124,115
+2481,3042,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,child safety,8/17/2019,416.00,8/27/2019,10.00,Leads,1,triage,C2560,1183,633,550,240,148,38
+2999,2601,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,hackers,12/8/2019,62.00,12/24/2019,16.00,Leads,4,enforced,C2049,1775,1678,97,22,35,9
+1686,3692,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,hackers,10/10/2019,66.00,10/12/2019,2.00,News,2,investigating,C1660,445,188,257,144,8,53
+1892,4625,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,12/17/2019,898.00,12/18/2019,1.00,Discovery,1,triage,C2090,4840,4466,374,117,204,32
+985,4285,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,hackers,4/1/2020,359.00,4/16/2020,15.00,Government Partners,4,enforced,C2854,6372,4455,1917,63,440,1040
+1720,1366,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,espionage,4/30/2020,"1,057.00",5/25/2020,25.00,Leads,2,investigating,C1028,6604,3087,3517,877,1926,248
+2951,4324,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,human exploitation,6/2/2019,532.00,6/19/2019,17.00,Discovery,2,investigating,C1397,5520,35,5485,2014,2897,20
+1826,2120,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,child safety,4/29/2019,749.00,5/6/2019,7.00,Leads,1,triage,C2637,4457,4110,347,56,224,6
+1332,4686,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,child safety,7/30/2019,786.00,8/3/2019,4.00,Leads,3,passed to another team,C2827,4570,2740,1830,1644,64,61
+454,3896,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,dangerous actors,12/4/2019,"1,156.00",12/25/2019,21.00,Industry Partners,3,passed to another team,C2550,4668,3393,1275,961,8,62
+1134,4867,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,dangerous actors,7/27/2019,956.00,8/1/2019,5.00,Discovery,4,enforced,C1822,3293,3170,123,83,27,3
+454,1511,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,malware,7/5/2019,"1,064.00",7/21/2019,16.00,Government Partners,1,triage,C2739,4671,229,4442,1289,1761,592
+2805,1831,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,dangerous actors,11/15/2019,476.00,12/6/2019,21.00,Industry Partners,4,enforced,C1871,2475,2007,468,95,24,177
+2653,2413,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,malware,5/1/2020,"1,298.00",5/28/2020,27.00,News,4,enforced,C1342,938,21,917,513,306,19
+2693,1868,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,espionage,4/24/2019,"1,388.00",4/25/2019,1.00,Industry Partners,3,passed to another team,C2952,4242,1554,2688,683,729,689
+1255,3000,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,child safety,4/9/2019,154.00,4/10/2019,1.00,Government Partners,1,triage,C1512,4165,372,3793,3110,212,393
+1736,3105,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,dangerous actors,3/23/2019,"1,038.00",4/7/2019,15.00,Industry Partners,3,passed to another team,C1457,8283,5147,3136,613,2267,150
+133,4747,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,human exploitation,8/20/2019,872.00,8/28/2019,8.00,News,2,investigating,C2755,8951,6413,2538,281,1306,302
+2104,2587,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,malware,2/12/2020,8.00,2/15/2020,3.00,Discovery,3,passed to another team,C1222,8599,5244,3355,2507,368,241
+2682,4041,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,human exploitation,2/25/2020,730.00,3/22/2020,26.00,Industry Partners,1,triage,C1200,1908,609,1299,192,331,340
+1444,1227,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,hackers,3/8/2020,909.00,3/25/2020,17.00,Discovery,3,passed to another team,C2705,723,508,215,166,11,34
+509,1945,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,hackers,7/6/2019,418.00,8/2/2019,27.00,Government Partners,2,investigating,C2164,2507,363,2144,713,179,860
+2658,2431,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,hackers,11/18/2019,286.00,12/4/2019,16.00,Industry Partners,1,triage,C1105,5949,587,5362,654,2727,1394
+1138,4390,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,child safety,5/12/2019,547.00,5/30/2019,18.00,Discovery,4,enforced,C1080,8453,4936,3517,1888,172,1357
+1065,4906,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,espionage,7/25/2019,225.00,8/24/2019,30.00,Leads,3,passed to another team,C1345,4651,131,4520,4180,221,35
+1396,1148,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,espionage,4/6/2019,968.00,4/25/2019,19.00,Discovery,1,triage,C2937,281,147,134,108,5,0
+8,1283,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,human exploitation,11/20/2019,474.00,12/4/2019,14.00,Discovery,4,enforced,C1384,2492,1153,1339,1208,91,25
+1861,3893,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,child safety,8/17/2019,"1,340.00",8/31/2019,14.00,News,3,passed to another team,C2982,2295,2051,244,17,45,91
+2619,4852,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Closed,child safety,3/16/2020,412.00,3/22/2020,6.00,Industry Partners,1,triage,C1446,2096,258,1838,1194,475,97
+1659,2311,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,1/4/2019,302.00,2/2/2019,29.00,Discovery,4,enforced,C2870,7606,1373,6233,656,5239,312
+792,1276,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,espionage,3/6/2019,147.00,3/22/2019,16.00,Government Partners,3,passed to another team,C1181,3651,1297,2354,1748,51,224
+1068,4381,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,hackers,12/15/2019,161.00,12/18/2019,3.00,Leads,4,enforced,C1382,5842,4465,1377,478,35,319
+1496,4042,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,child safety,10/18/2019,809.00,10/29/2019,11.00,Leads,4,enforced,C1972,9956,5407,4549,1335,1494,1070
+1175,2174,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,espionage,1/3/2019,255.00,1/25/2019,22.00,News,1,triage,C2080,1250,513,737,354,48,7
+84,1716,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,dangerous actors,4/9/2020,905.00,5/4/2020,25.00,Leads,1,triage,C2331,7100,3563,3537,1018,1207,748
+1852,2861,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,dangerous actors,10/14/2019,965.00,10/25/2019,11.00,Discovery,4,enforced,C2195,505,432,73,23,31,1
+300,3817,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,espionage,4/21/2019,"1,394.00",4/23/2019,2.00,News,1,triage,C1032,1949,136,1813,1523,40,143
+2454,4743,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,dangerous actors,12/8/2019,"1,062.00",12/29/2019,21.00,Industry Partners,1,triage,C2908,7811,780,7031,5009,1353,533
+2353,4172,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,hackers,4/6/2020,864.00,4/30/2020,24.00,Government Partners,4,enforced,C1204,2311,1187,1124,107,123,503
+1711,4107,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,espionage,9/29/2019,476.00,10/11/2019,12.00,Discovery,1,triage,C2899,5535,1485,4050,3934,15,17
+841,2236,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,human exploitation,1/29/2020,388.00,2/17/2020,19.00,Leads,3,passed to another team,C1501,122,60,62,7,53,1
+2084,4523,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,malware,9/26/2019,354.00,10/1/2019,5.00,News,3,passed to another team,C2557,2432,895,1537,1396,76,42
+1995,2114,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,malware,2/19/2020,989.00,3/9/2020,19.00,Industry Partners,1,triage,C2756,6225,803,5422,4481,296,197
+175,2843,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,dangerous actors,7/17/2019,"1,105.00",7/18/2019,1.00,News,3,passed to another team,C2939,1727,482,1245,839,298,44
+1718,4122,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,dangerous actors,6/17/2019,933.00,6/29/2019,12.00,Industry Partners,3,passed to another team,C2556,3277,3275,2,1,0,0
+270,2919,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,malware,1/16/2020,"1,210.00",1/18/2020,2.00,News,4,enforced,C1910,6091,2276,3815,691,1927,877
+1333,3080,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,child safety,5/26/2019,"1,274.00",6/8/2019,13.00,News,3,passed to another team,C2168,1802,1738,64,54,2,1
+820,4907,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,malware,9/13/2019,"1,361.00",9/17/2019,4.00,Government Partners,1,triage,C1010,6744,775,5969,1222,659,4005
+1727,3290,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,malware,1/1/2020,167.00,1/27/2020,26.00,Industry Partners,2,investigating,C2687,3337,430,2907,2315,446,69
+808,3439,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,dangerous actors,10/28/2019,804.00,11/11/2019,14.00,Discovery,2,investigating,C1252,8512,4622,3890,2611,329,241
+327,4929,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,hackers,4/25/2019,448.00,4/30/2019,5.00,News,1,triage,C1285,3716,2075,1641,1128,226,222
+1969,1070,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,child safety,10/26/2019,84.00,11/24/2019,29.00,News,4,enforced,C1200,5762,5110,652,398,186,59
+1940,4690,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,human exploitation,1/4/2019,462.00,2/3/2019,30.00,Leads,2,investigating,C2704,6711,6666,45,19,5,12
+1587,3715,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,child safety,4/11/2020,348.00,4/30/2020,19.00,Discovery,1,triage,C1469,5898,3019,2879,312,33,699
+990,1608,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,hackers,4/19/2020,"1,250.00",5/18/2020,29.00,Industry Partners,2,investigating,C1754,9802,4795,5007,1682,1425,1794
+640,4673,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,human exploitation,9/23/2019,58.00,9/30/2019,7.00,News,1,triage,C2788,7659,5332,2327,2214,93,15
+2,3554,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,dangerous actors,9/1/2019,188.00,9/16/2019,15.00,Leads,3,passed to another team,C2355,9763,8961,802,506,153,1
+197,1894,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,8/6/2019,487.00,8/7/2019,1.00,Leads,1,triage,C1701,530,103,427,78,218,115
+1810,3721,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,malware,6/3/2019,659.00,6/10/2019,7.00,Government Partners,2,investigating,C2699,9627,5715,3912,3209,51,51
+2773,2743,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,hackers,4/18/2019,957.00,5/9/2019,21.00,Industry Partners,1,triage,C1013,4020,1831,2189,41,1520,542
+2762,2080,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,espionage,7/1/2019,822.00,7/4/2019,3.00,Discovery,2,investigating,C1348,6856,6803,53,40,7,5
+418,1532,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,espionage,5/10/2019,"1,204.00",5/13/2019,3.00,Leads,1,triage,C1405,4414,2302,2112,643,507,767
+1144,1211,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,malware,4/3/2020,446.00,4/25/2020,22.00,Government Partners,4,enforced,C1657,387,343,44,39,1,1
+2455,2040,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,malware,4/23/2020,370.00,4/28/2020,5.00,Discovery,4,enforced,C2049,6194,6061,133,36,89,1
+987,1821,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,hackers,10/20/2019,664.00,10/27/2019,7.00,Government Partners,4,enforced,C2716,7773,359,7414,5902,537,238
+2306,4920,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,child safety,9/15/2019,281.00,10/7/2019,22.00,Discovery,2,investigating,C2311,5833,3130,2703,2591,58,19
+808,1696,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,hackers,10/16/2019,793.00,11/13/2019,28.00,Leads,3,passed to another team,C1503,555,321,234,24,79,59
+1740,4183,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,malware,2/14/2020,564.00,3/7/2020,22.00,News,4,enforced,C1034,2532,1138,1394,570,757,60
+413,1632,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,espionage,8/20/2019,119.00,9/13/2019,24.00,Leads,2,investigating,C1776,7109,3053,4056,1336,1411,1135
+195,1612,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,dangerous actors,4/21/2020,"1,212.00",5/12/2020,21.00,News,1,triage,C1839,3640,2854,786,578,154,49
+690,4183,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,dangerous actors,6/29/2019,368.00,7/23/2019,24.00,Leads,2,investigating,C1125,5246,3921,1325,629,493,93
+835,2052,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,dangerous actors,2/11/2019,983.00,3/13/2019,30.00,Leads,2,investigating,C1134,6866,3276,3590,3583,6,1
+1950,4910,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,hackers,3/7/2019,"1,162.00",3/17/2019,10.00,Industry Partners,2,investigating,C1264,929,550,379,348,1,5
+339,2983,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,human exploitation,3/18/2020,788.00,4/8/2020,21.00,Leads,1,triage,C2242,2122,180,1942,590,114,1151
+2397,2399,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,child safety,3/11/2020,224.00,3/21/2020,10.00,Industry Partners,2,investigating,C1735,2518,1381,1137,1044,12,36
+2716,4668,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,dangerous actors,1/1/2019,933.00,1/30/2019,29.00,Government Partners,4,enforced,C2254,6949,3780,3169,6,222,1468
+2322,3805,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,espionage,2/3/2020,985.00,2/25/2020,22.00,Discovery,4,enforced,C2572,7931,6926,1005,627,56,44
+2946,4697,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,child safety,10/22/2019,549.00,11/6/2019,15.00,Leads,2,investigating,C2898,5804,635,5169,259,2373,829
+1505,2434,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,human exploitation,3/22/2020,"1,399.00",4/21/2020,30.00,Government Partners,1,triage,C1872,9500,5428,4072,1726,2001,288
+2834,1945,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,espionage,7/15/2019,779.00,7/23/2019,8.00,News,4,enforced,C2350,876,720,156,136,13,1
+2905,2202,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,child safety,9/29/2019,870.00,10/25/2019,26.00,Industry Partners,1,triage,C2532,1673,159,1514,199,615,371
+202,1297,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,malware,5/7/2019,564.00,5/23/2019,16.00,Discovery,1,triage,C1019,1430,598,832,681,139,0
+83,2087,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,child safety,8/3/2019,"1,113.00",8/7/2019,4.00,Industry Partners,4,enforced,C2383,9389,8362,1027,253,286,172
+328,2076,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,hackers,6/30/2019,566.00,7/12/2019,12.00,News,3,passed to another team,C2023,7510,7488,22,18,3,1
+1932,3481,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,hackers,1/18/2019,569.00,2/12/2019,25.00,Industry Partners,4,enforced,C2670,5594,2919,2675,517,1959,148
+1347,2459,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,hackers,8/5/2019,734.00,8/30/2019,25.00,News,3,passed to another team,C2367,1820,1765,55,14,0,20
+679,2092,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,child safety,6/22/2019,760.00,7/16/2019,24.00,Discovery,1,triage,C1975,3232,1883,1349,1052,43,198
+2183,4683,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,hackers,2/14/2019,581.00,3/2/2019,16.00,Leads,3,passed to another team,C2510,8366,8160,206,22,84,20
+642,3406,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,espionage,9/16/2019,783.00,10/9/2019,23.00,Leads,2,investigating,C1435,245,123,122,115,5,2
+1146,4961,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,espionage,5/25/2019,586.00,6/20/2019,26.00,Leads,2,investigating,C2434,5581,2518,3063,1189,943,632
+1971,2297,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,espionage,2/13/2019,"1,225.00",3/5/2019,20.00,Discovery,3,passed to another team,C2296,9643,81,9562,5323,1932,1907
+2970,4484,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,child safety,4/24/2020,526.00,4/29/2020,5.00,News,3,passed to another team,C2103,4437,226,4211,3890,289,0
+329,4998,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,dangerous actors,4/2/2020,"1,353.00",4/9/2020,7.00,Leads,3,passed to another team,C1575,1151,745,406,206,109,16
+1006,2071,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,malware,5/30/2019,406.00,5/31/2019,1.00,Industry Partners,3,passed to another team,C2114,3851,630,3221,557,23,2103
+761,2916,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,dangerous actors,2/3/2020,524.00,2/19/2020,16.00,Leads,1,triage,C2901,4998,4777,221,19,47,76
+1246,4902,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,hackers,7/5/2019,681.00,8/3/2019,29.00,Government Partners,3,passed to another team,C2534,5652,2455,3197,3099,26,27
+2563,2794,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,human exploitation,1/21/2019,567.00,1/29/2019,8.00,Government Partners,1,triage,C2497,9277,6464,2813,941,1386,113
+704,2799,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,child safety,5/24/2019,89.00,6/1/2019,8.00,Industry Partners,3,passed to another team,C1810,4839,2981,1858,1054,258,163
+1940,2122,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,dangerous actors,5/5/2019,969.00,5/24/2019,19.00,News,1,triage,C2987,8575,7004,1571,146,449,93
+1362,2852,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,1/30/2020,346.00,2/14/2020,15.00,News,3,passed to another team,C2928,7262,5896,1366,541,769,40
+2154,4674,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,child safety,7/18/2019,38.00,8/9/2019,22.00,Discovery,1,triage,C1264,1927,651,1276,744,0,220
+2043,3305,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,child safety,6/12/2019,873.00,6/19/2019,7.00,Discovery,4,enforced,C2604,6316,2664,3652,466,726,1445
+2445,4558,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,human exploitation,5/22/2019,173.00,6/15/2019,24.00,Government Partners,3,passed to another team,C2293,5414,1796,3618,490,2642,431
+272,4888,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,human exploitation,11/12/2019,887.00,11/14/2019,2.00,News,2,investigating,C2550,529,507,22,17,5,0
+1739,2213,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,espionage,9/2/2019,12.00,9/30/2019,28.00,Leads,1,triage,C1674,8435,861,7574,7233,7,207
+2885,1829,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,espionage,1/5/2020,12.00,1/27/2020,22.00,Discovery,1,triage,C2225,4847,2796,2051,1050,897,37
+144,2712,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,dangerous actors,3/14/2019,20.00,3/31/2019,17.00,Discovery,1,triage,C2187,5301,408,4893,1741,2698,384
+2066,2961,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,malware,4/29/2019,"1,175.00",5/22/2019,23.00,Discovery,1,triage,C2774,3749,1099,2650,1558,519,226
+1064,1596,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Closed,human exploitation,3/10/2020,287.00,3/23/2020,13.00,Leads,4,enforced,C2768,346,47,299,126,52,99
+1832,4565,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,hackers,2/4/2019,762.00,2/11/2019,7.00,News,4,enforced,C1314,1026,717,309,150,81,28
+1893,4689,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,espionage,2/19/2019,315.00,3/16/2019,25.00,Industry Partners,1,triage,C1647,344,274,70,50,6,2
+218,3234,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,malware,2/1/2020,354.00,2/18/2020,17.00,Discovery,2,investigating,C1430,3827,2537,1290,165,496,31
+2281,2091,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,hackers,11/20/2019,"1,343.00",11/26/2019,6.00,News,3,passed to another team,C2080,4000,273,3727,1114,2355,183
+356,1204,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,9/2/2019,"1,274.00",9/12/2019,10.00,Industry Partners,2,investigating,C1713,9753,3453,6300,5551,460,24
+881,1518,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,child safety,5/23/2019,"1,231.00",6/15/2019,23.00,News,1,triage,C1549,5723,4962,761,649,88,22
+121,3703,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,malware,7/26/2019,300.00,8/18/2019,23.00,Government Partners,2,investigating,C1030,6069,3460,2609,2128,252,95
+739,2434,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,espionage,9/19/2019,256.00,9/25/2019,6.00,Government Partners,2,investigating,C2956,6927,2920,4007,1162,1435,180
+480,3233,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,human exploitation,4/18/2019,60.00,4/30/2019,12.00,Industry Partners,1,triage,C1399,5437,892,4545,1056,3200,124
+609,2982,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,malware,9/10/2019,"1,146.00",10/9/2019,29.00,Government Partners,1,triage,C2514,7067,5087,1980,823,554,271
+170,3821,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,2/1/2019,414.00,2/11/2019,10.00,News,3,passed to another team,C2221,6076,3230,2846,2704,5,31
+1904,2738,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,hackers,9/4/2019,605.00,9/9/2019,5.00,Government Partners,4,enforced,C1328,2878,62,2816,592,592,266
+1051,3560,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,human exploitation,12/19/2019,835.00,1/9/2020,21.00,Leads,2,investigating,C2074,1369,1358,11,4,1,3
+652,2787,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,human exploitation,9/18/2019,671.00,10/8/2019,20.00,Government Partners,3,passed to another team,C2383,5902,4236,1666,708,283,420
+2694,1904,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,espionage,7/17/2019,734.00,7/22/2019,5.00,News,4,enforced,C1273,5710,1316,4394,2588,436,1243
+1160,3038,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,dangerous actors,3/28/2019,21.00,4/14/2019,17.00,Discovery,3,passed to another team,C1516,7827,4932,2895,852,1936,48
+382,4724,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,malware,12/10/2019,568.00,1/8/2020,29.00,Discovery,1,triage,C1386,5782,800,4982,4934,41,3
+564,2005,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,human exploitation,1/4/2020,579.00,1/30/2020,26.00,Industry Partners,1,triage,C1357,9027,1304,7723,1097,3209,2780
+1141,1755,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,hackers,2/16/2019,"1,394.00",3/6/2019,18.00,Discovery,2,investigating,C1408,1002,671,331,263,42,16
+1311,3199,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,dangerous actors,8/17/2019,80.00,8/27/2019,10.00,News,3,passed to another team,C2779,1498,893,605,104,326,112
+2447,2623,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,hackers,1/26/2020,42.00,2/10/2020,15.00,News,4,enforced,C2307,6447,922,5525,3845,297,628
+959,3833,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,4/6/2020,418.00,4/11/2020,5.00,Leads,2,investigating,C1795,2151,440,1711,1261,202,25
+407,4798,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,human exploitation,10/14/2019,"1,132.00",11/1/2019,18.00,Government Partners,4,enforced,C2331,9431,5364,4067,3672,94,227
+686,2603,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,malware,12/9/2019,120.00,1/7/2020,29.00,Government Partners,2,investigating,C2653,8359,5572,2787,2317,201,70
+950,3638,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,child safety,4/18/2020,"1,366.00",5/9/2020,21.00,Leads,4,enforced,C1257,7937,3851,4086,2584,1201,144
+5,5000,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,espionage,4/14/2020,118.00,5/9/2020,25.00,Government Partners,4,enforced,C1706,6173,3628,2545,1980,84,355
+1768,3914,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,malware,6/23/2019,122.00,7/14/2019,21.00,Discovery,3,passed to another team,C2459,532,457,75,69,1,1
+2754,1913,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,child safety,11/11/2019,"1,261.00",11/13/2019,2.00,Government Partners,1,triage,C1430,3024,669,2355,341,1114,531
+458,3003,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,human exploitation,3/10/2020,938.00,3/11/2020,1.00,Discovery,2,investigating,C2278,8308,1684,6624,3206,1472,351
+162,1593,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,child safety,6/14/2019,"1,222.00",7/6/2019,22.00,News,1,triage,C2132,7064,190,6874,4895,163,335
+2730,4293,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,child safety,4/15/2020,215.00,5/10/2020,25.00,Industry Partners,4,enforced,C2040,2699,568,2131,635,150,191
+2142,3153,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,dangerous actors,9/28/2019,618.00,10/25/2019,27.00,Industry Partners,1,triage,C2492,7967,806,7161,5867,44,991
+2353,1399,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,dangerous actors,12/7/2019,803.00,12/15/2019,8.00,Industry Partners,1,triage,C2711,3254,676,2578,1974,0,299
+117,3586,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,5/1/2020,309.00,5/17/2020,16.00,Industry Partners,1,triage,C2721,2042,942,1100,165,205,53
+2198,2728,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,malware,1/11/2019,806.00,1/19/2019,8.00,Leads,1,triage,C2588,8384,1974,6410,2687,1656,1144
+2918,4462,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,human exploitation,2/5/2020,"1,237.00",2/16/2020,11.00,Government Partners,3,passed to another team,C1727,9113,8135,978,945,10,23
+662,1031,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,malware,10/16/2019,124.00,10/29/2019,13.00,News,4,enforced,C2672,8860,7711,1149,1128,3,16
+439,4991,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,hackers,5/31/2019,"1,182.00",6/21/2019,21.00,Government Partners,2,investigating,C1088,3397,2919,478,9,305,61
+2604,4185,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,malware,2/1/2019,"1,255.00",2/25/2019,24.00,Leads,4,enforced,C2888,7929,885,7044,4708,291,1340
+2945,4106,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,malware,6/24/2019,623.00,7/9/2019,15.00,News,4,enforced,C1720,3417,1,3416,2805,439,81
+2847,1777,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,malware,5/28/2019,126.00,6/5/2019,8.00,Discovery,4,enforced,C1945,7362,1886,5476,3376,205,177
+488,1412,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,dangerous actors,1/29/2019,137.00,2/26/2019,28.00,Government Partners,4,enforced,C1826,105,52,53,20,32,1
+173,2847,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,malware,11/24/2019,499.00,12/21/2019,27.00,Government Partners,1,triage,C2200,1431,233,1198,901,200,35
+964,4651,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,child safety,9/10/2019,315.00,9/15/2019,5.00,News,4,enforced,C1028,4613,396,4217,2312,447,364
+333,4559,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,malware,4/13/2019,"1,337.00",5/4/2019,21.00,Government Partners,4,enforced,C1803,2222,592,1630,1210,260,34
+672,3608,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Closed,child safety,1/28/2019,256.00,2/5/2019,8.00,News,2,investigating,C2388,9077,4657,4420,3917,187,197
+192,4442,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,child safety,11/14/2019,"1,116.00",12/10/2019,26.00,News,1,triage,C1230,9328,1142,8186,288,4680,1271
+989,2705,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,espionage,3/30/2020,"1,347.00",4/19/2020,20.00,News,2,investigating,C1457,9970,4869,5101,2306,2567,226
+2063,2672,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,child safety,3/20/2020,"1,341.00",3/29/2020,9.00,Industry Partners,3,passed to another team,C1771,4066,3255,811,85,434,60
+1051,4746,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,malware,9/3/2019,"1,105.00",9/6/2019,3.00,Discovery,3,passed to another team,C1526,4729,3960,769,15,173,510
+106,1336,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,child safety,3/2/2020,336.00,3/5/2020,3.00,Government Partners,2,investigating,C2936,316,188,128,113,8,7
+1383,2219,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,malware,6/20/2019,"1,032.00",6/21/2019,1.00,Discovery,4,enforced,C1005,5824,306,5518,2196,2667,612
+484,2583,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,child safety,7/26/2019,"1,063.00",8/14/2019,19.00,Government Partners,2,investigating,C2356,1788,1765,23,21,0,2
+807,4204,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,child safety,6/15/2019,"1,021.00",7/7/2019,22.00,Government Partners,3,passed to another team,C1396,1158,223,935,803,62,38
+409,3709,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,espionage,10/12/2019,505.00,10/24/2019,12.00,News,2,investigating,C2292,6214,3463,2751,2098,36,298
+806,4059,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,child safety,4/8/2019,754.00,4/12/2019,4.00,Leads,1,triage,C2864,3255,1266,1989,1376,466,80
+2300,3571,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,hackers,12/22/2019,733.00,1/9/2020,18.00,News,3,passed to another team,C2370,7078,3324,3754,503,2734,371
+1942,4028,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,hackers,7/18/2019,273.00,7/31/2019,13.00,Discovery,1,triage,C1043,4737,3382,1355,1245,79,11
+2669,3030,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,dangerous actors,3/28/2019,235.00,4/17/2019,20.00,News,4,enforced,C2793,4882,2567,2315,1664,637,1
+1020,1413,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,malware,7/22/2019,81.00,7/26/2019,4.00,Government Partners,4,enforced,C1720,6611,6340,271,53,71,61
+2896,4618,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,human exploitation,7/1/2019,"1,229.00",7/7/2019,6.00,Industry Partners,3,passed to another team,C1628,6338,4539,1799,534,822,135
+2002,3575,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,hackers,6/9/2019,640.00,7/5/2019,26.00,Industry Partners,3,passed to another team,C2562,6326,5555,771,195,289,222
+1635,2177,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,espionage,6/24/2019,"1,014.00",6/28/2019,4.00,Government Partners,2,investigating,C1629,1424,659,765,716,21,15
+2229,1572,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,dangerous actors,12/23/2019,381.00,12/27/2019,4.00,Government Partners,2,investigating,C1504,5459,2972,2487,2453,22,12
+711,1043,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,human exploitation,3/16/2020,740.00,4/5/2020,20.00,Industry Partners,1,triage,C2536,7019,2216,4803,1944,1686,981
+2451,3426,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,dangerous actors,11/26/2019,264.00,12/12/2019,16.00,Government Partners,2,investigating,C1908,9551,8204,1347,424,350,5
+167,1686,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,espionage,4/10/2019,969.00,4/18/2019,8.00,Discovery,3,passed to another team,C1240,279,86,193,138,8,1
+1387,3710,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,malware,9/6/2019,216.00,10/3/2019,27.00,Industry Partners,3,passed to another team,C1645,7449,4423,3026,1350,443,1070
+1838,2676,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,malware,8/4/2019,"1,196.00",8/23/2019,19.00,News,3,passed to another team,C1341,2255,657,1598,1345,50,127
+2621,3283,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,malware,4/29/2019,124.00,5/5/2019,6.00,Discovery,2,investigating,C2072,1301,160,1141,499,610,12
+2763,3944,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,hackers,5/5/2019,"1,105.00",5/25/2019,20.00,Discovery,2,investigating,C2267,2591,1361,1230,1076,138,16
+2570,1525,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,hackers,4/5/2020,474.00,4/17/2020,12.00,Industry Partners,2,investigating,C1965,4593,3015,1578,413,346,511
+1929,1686,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,malware,7/9/2019,295.00,7/18/2019,9.00,Leads,1,triage,C1701,1496,751,745,188,326,150
+1010,4371,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,child safety,1/17/2020,253.00,1/23/2020,6.00,News,3,passed to another team,C1139,1457,105,1352,1072,155,111
+733,2602,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,child safety,2/21/2020,2.00,2/26/2020,5.00,Discovery,4,enforced,C1791,3333,3174,159,93,61,0
+1136,4946,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,espionage,6/28/2019,940.00,7/18/2019,20.00,News,2,investigating,C1378,6455,4006,2449,1117,33,571
+1945,1765,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,human exploitation,6/6/2019,"1,394.00",6/30/2019,24.00,News,4,enforced,C1592,1890,623,1267,1003,238,26
+2877,4765,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,human exploitation,1/18/2019,"1,352.00",2/13/2019,26.00,Discovery,4,enforced,C1589,5364,4310,1054,219,559,130
+2482,3025,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,dangerous actors,3/12/2019,749.00,3/27/2019,15.00,Leads,2,investigating,C1193,7110,5749,1361,8,1213,18
+2052,2568,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,hackers,4/14/2019,524.00,5/12/2019,28.00,Government Partners,1,triage,C2734,5099,3837,1262,298,490,383
+503,2897,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,child safety,7/2/2019,"1,045.00",7/31/2019,29.00,Leads,2,investigating,C1584,89,87,2,1,1,0
+1888,2110,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,dangerous actors,8/11/2019,822.00,9/10/2019,30.00,Government Partners,1,triage,C2147,8328,4980,3348,957,1026,734
+118,3300,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,malware,1/25/2020,71.00,2/10/2020,16.00,Industry Partners,1,triage,C1972,1813,1200,613,422,121,4
+2319,4118,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,espionage,4/28/2019,"1,352.00",5/4/2019,6.00,News,2,investigating,C1322,3142,1862,1280,171,113,958
+1482,1791,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,dangerous actors,1/31/2019,935.00,2/24/2019,24.00,Discovery,2,investigating,C2022,1185,965,220,184,5,0
+1695,4339,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,child safety,8/17/2019,453.00,8/24/2019,7.00,Discovery,2,investigating,C1466,3388,2026,1362,1165,165,14
+1452,2138,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,espionage,5/23/2019,935.00,6/6/2019,14.00,Industry Partners,4,enforced,C1409,3775,2883,892,509,287,64
+2989,1902,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,espionage,6/21/2019,256.00,6/29/2019,8.00,News,2,investigating,C1859,3034,1880,1154,751,92,300
+218,4872,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,hackers,5/2/2019,56.00,5/26/2019,24.00,Government Partners,1,triage,C2761,8015,4793,3222,388,171,880
+2041,3300,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,malware,2/28/2020,"1,395.00",3/28/2020,29.00,News,3,passed to another team,C1975,6103,1326,4777,4268,238,100
+604,1948,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,child safety,1/9/2020,839.00,1/16/2020,7.00,Industry Partners,1,triage,C1128,9904,2344,7560,3865,3058,86
+1804,4132,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,dangerous actors,9/14/2019,"1,268.00",10/13/2019,29.00,Government Partners,2,investigating,C2068,8408,1730,6678,2496,3189,337
+931,2748,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,malware,4/26/2019,"1,228.00",5/9/2019,13.00,Industry Partners,1,triage,C1753,889,223,666,95,291,82
+90,4621,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,dangerous actors,6/26/2019,489.00,7/8/2019,12.00,Industry Partners,2,investigating,C2321,6952,1670,5282,3816,626,513
+775,2418,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,malware,1/31/2020,76.00,2/28/2020,28.00,Leads,1,triage,C2234,6689,1357,5332,4658,411,187
+2962,4901,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,dangerous actors,5/25/2019,644.00,6/13/2019,19.00,Government Partners,2,investigating,C2383,9952,8033,1919,595,942,57
+147,2217,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,dangerous actors,5/3/2019,106.00,5/19/2019,16.00,Discovery,3,passed to another team,C2000,4668,2721,1947,1315,400,204
+1287,1628,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,dangerous actors,3/17/2019,58.00,3/29/2019,12.00,News,4,enforced,C2048,9579,2208,7371,3296,1084,1826
+306,4149,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,child safety,6/18/2019,283.00,7/6/2019,18.00,Leads,2,investigating,C1025,7950,871,7079,1223,2747,1217
+2966,1749,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,hackers,4/18/2019,"1,074.00",4/27/2019,9.00,Industry Partners,3,passed to another team,C2757,6986,3575,3411,103,2278,1024
+1649,2096,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,human exploitation,7/21/2019,36.00,7/27/2019,6.00,News,2,investigating,C2193,9299,2741,6558,5480,508,521
+2128,3873,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,espionage,3/14/2020,958.00,3/27/2020,13.00,Leads,4,enforced,C2345,6374,5257,1117,367,350,275
+2899,3184,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,child safety,9/23/2019,839.00,10/8/2019,15.00,News,3,passed to another team,C1054,205,36,169,13,135,13
+991,3952,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,3/30/2020,702.00,4/8/2020,9.00,Government Partners,3,passed to another team,C1062,3310,141,3169,139,2455,164
+1015,4566,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,child safety,3/30/2019,484.00,3/31/2019,1.00,Discovery,3,passed to another team,C2667,5409,431,4978,4640,81,159
+1750,1511,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,malware,6/2/2019,350.00,6/4/2019,2.00,Industry Partners,1,triage,C2022,6106,4414,1692,32,1316,263
+2920,3729,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,human exploitation,5/1/2019,636.00,5/11/2019,10.00,Discovery,2,investigating,C2678,4704,509,4195,189,1126,1650
+2519,1004,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,hackers,7/26/2019,"1,124.00",8/12/2019,17.00,Government Partners,3,passed to another team,C1166,226,14,212,153,15,32
+2032,2213,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,hackers,9/26/2019,"1,316.00",10/1/2019,5.00,Leads,2,investigating,C1250,6677,6366,311,142,122,44
+2270,1792,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,hackers,4/15/2019,360.00,5/6/2019,21.00,Leads,4,enforced,C2237,6794,4774,2020,745,664,401
+880,3920,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,malware,9/16/2019,699.00,10/5/2019,19.00,News,4,enforced,C2223,4525,4299,226,164,9,11
+445,1273,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,hackers,6/11/2019,142.00,6/23/2019,12.00,Industry Partners,1,triage,C2394,2148,350,1798,1778,15,4
+2227,4585,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,espionage,3/11/2020,104.00,3/21/2020,10.00,News,3,passed to another team,C1020,8843,2895,5948,3450,2411,46
+2252,4857,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,human exploitation,2/7/2020,553.00,3/1/2020,23.00,Government Partners,1,triage,C2892,6152,4829,1323,1071,21,193
+2654,2188,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,espionage,5/20/2019,71.00,5/28/2019,8.00,Leads,4,enforced,C1350,5070,1287,3783,3105,82,380
+1124,1364,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,hackers,4/14/2019,461.00,5/13/2019,29.00,Industry Partners,3,passed to another team,C1795,789,170,619,609,4,5
+2426,2812,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,hackers,1/19/2019,752.00,1/24/2019,5.00,News,1,triage,C2044,3222,2457,765,320,185,213
+2669,1261,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,malware,11/25/2019,826.00,12/21/2019,26.00,Leads,4,enforced,C2141,5628,4240,1388,229,217,449
+2636,1593,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,hackers,6/23/2019,64.00,6/24/2019,1.00,Discovery,1,triage,C1282,6382,3268,3114,1572,928,430
+2181,3476,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,espionage,3/27/2020,128.00,4/18/2020,22.00,Leads,1,triage,C2433,1576,1425,151,121,23,4
+2645,4772,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,espionage,7/26/2019,323.00,7/28/2019,2.00,News,2,investigating,C1734,2546,1974,572,228,116,195
+87,4926,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,hackers,9/25/2019,156.00,10/24/2019,29.00,Leads,2,investigating,C1979,9606,5710,3896,424,2676,543
+1908,4426,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,child safety,9/17/2019,620.00,9/29/2019,12.00,Industry Partners,3,passed to another team,C2195,7135,1140,5995,3806,1114,18
+134,4885,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,dangerous actors,9/20/2019,566.00,9/23/2019,3.00,News,3,passed to another team,C2675,2638,151,2487,1298,121,835
+724,2209,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,dangerous actors,8/11/2019,"1,049.00",8/23/2019,12.00,Leads,2,investigating,C1679,6545,3641,2904,1670,898,312
+2723,2569,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,dangerous actors,10/11/2019,"1,369.00",10/18/2019,7.00,News,3,passed to another team,C1475,9996,653,9343,3498,3244,459
+2606,1458,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Closed,dangerous actors,1/20/2019,577.00,2/15/2019,26.00,Government Partners,2,investigating,C1240,9225,2949,6276,5898,12,321
+173,4633,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,dangerous actors,6/21/2019,333.00,7/17/2019,26.00,Government Partners,2,investigating,C1432,9608,1432,8176,5674,1904,234
+942,3427,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,dangerous actors,4/2/2020,806.00,4/13/2020,11.00,Government Partners,3,passed to another team,C2439,3634,3510,124,48,67,5
+1361,4301,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,malware,11/29/2019,"1,115.00",12/25/2019,26.00,Government Partners,3,passed to another team,C2945,7569,3921,3648,1001,79,1131
+2949,1408,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,child safety,6/25/2019,228.00,7/15/2019,20.00,Government Partners,2,investigating,C1449,5530,4706,824,70,539,50
+1595,3638,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,espionage,1/9/2019,594.00,1/29/2019,20.00,Discovery,3,passed to another team,C2202,1923,1317,606,342,82,163
+389,4348,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,human exploitation,6/12/2019,783.00,7/7/2019,25.00,Government Partners,2,investigating,C2155,5663,4018,1645,495,521,528
+2929,3629,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,human exploitation,4/7/2019,258.00,4/29/2019,22.00,Leads,1,triage,C1021,6168,1933,4235,122,3635,95
+2961,4493,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,malware,4/25/2019,115.00,5/7/2019,12.00,Discovery,3,passed to another team,C2053,2043,424,1619,17,120,1284
+1613,3627,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,dangerous actors,4/14/2020,620.00,5/6/2020,22.00,Industry Partners,3,passed to another team,C2794,4445,2146,2299,958,898,403
+1152,1190,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,hackers,3/26/2020,308.00,4/23/2020,28.00,News,4,enforced,C1634,3596,618,2978,638,548,1115
+2830,2976,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,3/23/2020,103.00,4/13/2020,21.00,Industry Partners,2,investigating,C2442,2566,1659,907,825,71,5
+2633,3401,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,child safety,6/24/2019,144.00,7/8/2019,14.00,Industry Partners,1,triage,C2644,521,33,488,120,17,318
+2385,1670,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,malware,12/29/2019,330.00,1/10/2020,12.00,News,2,investigating,C1721,7529,6101,1428,794,231,367
+2345,1449,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,malware,7/20/2019,378.00,8/6/2019,17.00,Government Partners,1,triage,C1972,1397,1377,20,16,3,0
+2879,4695,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,dangerous actors,6/1/2019,767.00,6/19/2019,18.00,Government Partners,2,investigating,C1184,4515,1651,2864,624,2220,11
+1271,3583,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,human exploitation,3/22/2020,"1,215.00",4/21/2020,30.00,Industry Partners,3,passed to another team,C1050,6717,4456,2261,2053,124,62
+1233,2544,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,human exploitation,5/27/2019,652.00,6/11/2019,15.00,Government Partners,3,passed to another team,C2351,1023,152,871,490,335,31
+2716,2540,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,human exploitation,5/5/2019,620.00,5/6/2019,1.00,News,4,enforced,C2769,7774,369,7405,6006,772,367
+1924,3583,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,malware,1/19/2019,454.00,2/4/2019,16.00,Leads,2,investigating,C1555,2760,1162,1598,1105,389,19
+1932,4410,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,human exploitation,6/19/2019,426.00,7/7/2019,18.00,Government Partners,1,triage,C1780,4804,1722,3082,107,754,1092
+1098,2765,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,malware,9/10/2019,811.00,9/26/2019,16.00,Leads,4,enforced,C2133,2469,2244,225,167,24,30
+974,3200,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,espionage,5/3/2019,513.00,5/17/2019,14.00,Industry Partners,4,enforced,C1515,6101,2221,3880,1129,570,158
+920,1108,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,child safety,1/17/2020,891.00,1/28/2020,11.00,News,4,enforced,C2770,7324,6636,688,679,0,3
+281,1637,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,espionage,2/14/2020,945.00,2/21/2020,7.00,Government Partners,1,triage,C2471,8031,7243,788,318,397,19
+2349,1860,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,malware,4/16/2020,863.00,4/26/2020,10.00,Industry Partners,4,enforced,C2487,162,123,39,33,3,1
+156,3630,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,human exploitation,1/30/2019,"1,048.00",2/28/2019,29.00,News,1,triage,C1815,4057,3214,843,41,659,107
+2386,1780,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,10/4/2019,100.00,10/30/2019,26.00,Government Partners,3,passed to another team,C2656,7923,2067,5856,3174,750,1128
+807,3480,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,child safety,4/11/2020,82.00,4/16/2020,5.00,Industry Partners,1,triage,C1901,2619,1515,1104,574,71,145
+1059,4262,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,child safety,2/13/2019,"1,343.00",2/18/2019,5.00,Government Partners,1,triage,C1268,8838,3403,5435,1755,2600,392
+2157,4348,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,espionage,3/20/2019,811.00,4/3/2019,14.00,Government Partners,1,triage,C1784,7777,3751,4026,9,3111,656
+817,4576,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,espionage,1/6/2020,"1,204.00",1/15/2020,9.00,Discovery,2,investigating,C1195,8036,871,7165,1824,5220,61
+196,1728,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,malware,7/20/2019,628.00,7/26/2019,6.00,Government Partners,1,triage,C2811,837,367,470,259,36,119
+876,1219,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,human exploitation,12/21/2019,179.00,1/9/2020,19.00,Government Partners,1,triage,C2094,4132,1447,2685,286,652,1469
+180,2876,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,human exploitation,9/27/2019,575.00,10/22/2019,25.00,News,1,triage,C2169,6385,3733,2652,2365,106,151
+1710,2803,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,espionage,5/18/2019,317.00,6/2/2019,15.00,Industry Partners,3,passed to another team,C2805,7416,2628,4788,337,2898,151
+697,1482,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,hackers,8/26/2019,520.00,8/30/2019,4.00,Government Partners,1,triage,C2022,7394,3826,3568,18,2918,444
+2576,2210,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,hackers,6/9/2019,365.00,6/17/2019,8.00,Government Partners,3,passed to another team,C1312,3550,1719,1831,503,338,525
+1103,3618,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,1/9/2020,37.00,1/29/2020,20.00,Discovery,2,investigating,C2532,5592,3146,2446,217,276,752
+1451,2500,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,hackers,8/23/2019,939.00,9/5/2019,13.00,Discovery,4,enforced,C1495,3609,2335,1274,1070,21,54
+632,4435,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,malware,1/21/2020,"1,371.00",1/31/2020,10.00,News,1,triage,C1188,3298,325,2973,2062,235,142
+2289,3530,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,malware,1/14/2020,239.00,1/28/2020,14.00,Government Partners,2,investigating,C1881,6326,4019,2307,1286,422,449
+1835,3668,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,espionage,4/22/2019,"1,372.00",5/16/2019,24.00,Discovery,2,investigating,C1173,2686,782,1904,971,728,9
+1314,2206,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,espionage,11/2/2019,656.00,11/17/2019,15.00,Industry Partners,2,investigating,C1333,2975,65,2910,1431,242,926
+1655,1038,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,malware,1/18/2019,120.00,2/9/2019,22.00,News,2,investigating,C1848,8361,6877,1484,33,475,272
+2316,2125,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,dangerous actors,7/27/2019,990.00,8/11/2019,15.00,Government Partners,3,passed to another team,C2006,1776,1620,156,155,1,0
+2405,3815,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,espionage,1/5/2020,742.00,1/14/2020,9.00,Government Partners,1,triage,C2391,7380,7098,282,123,86,27
+386,1885,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,human exploitation,3/16/2020,354.00,4/9/2020,24.00,Discovery,4,enforced,C2013,4179,2407,1772,1561,108,46
+1131,4504,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,espionage,6/17/2019,680.00,6/27/2019,10.00,News,3,passed to another team,C2413,7005,4531,2474,41,488,887
+1308,1181,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,malware,8/16/2019,988.00,8/27/2019,11.00,Government Partners,3,passed to another team,C1049,4513,2505,2008,1986,3,14
+30,3595,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,2/15/2019,709.00,2/25/2019,10.00,Industry Partners,2,investigating,C1116,7545,5272,2273,279,1647,14
+132,1803,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,hackers,7/13/2019,391.00,8/5/2019,23.00,Industry Partners,3,passed to another team,C1742,1913,594,1319,604,368,321
+2903,2210,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Closed,child safety,2/20/2019,309.00,3/10/2019,18.00,Industry Partners,3,passed to another team,C2237,7061,3297,3764,2047,449,376
+409,2591,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,hackers,9/13/2019,"1,370.00",10/6/2019,23.00,News,1,triage,C1906,573,227,346,118,29,154
+553,4033,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,child safety,10/7/2019,677.00,10/22/2019,15.00,News,3,passed to another team,C2057,1592,1141,451,214,108,120
+845,1316,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,human exploitation,9/26/2019,"1,183.00",9/30/2019,4.00,Industry Partners,1,triage,C1161,6780,5882,898,222,607,19
+1891,3988,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,dangerous actors,1/15/2020,217.00,1/16/2020,1.00,Discovery,3,passed to another team,C2944,6442,3205,3237,257,2719,192
+1777,4122,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,espionage,4/27/2020,900.00,5/26/2020,29.00,Government Partners,1,triage,C1820,97,45,52,13,3,29
+1529,1591,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,dangerous actors,2/7/2020,637.00,2/29/2020,22.00,Government Partners,1,triage,C1989,4452,3469,983,635,96,112
+2053,4827,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,dangerous actors,4/3/2019,565.00,4/30/2019,27.00,Government Partners,3,passed to another team,C2543,8460,6203,2257,1113,61,303
+1342,3615,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,hackers,3/23/2019,455.00,3/31/2019,8.00,Discovery,1,triage,C1844,8827,3166,5661,202,4816,404
+1666,4005,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,espionage,7/8/2019,820.00,7/23/2019,15.00,Discovery,2,investigating,C2448,5087,3335,1752,1432,199,105
+1868,3823,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,child safety,2/11/2019,"1,229.00",2/16/2019,5.00,News,3,passed to another team,C2092,8240,5897,2343,1001,189,755
+412,3551,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,dangerous actors,6/1/2019,127.00,6/27/2019,26.00,Industry Partners,4,enforced,C2131,1898,1216,682,500,81,30
+1122,3989,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,hackers,10/4/2019,103.00,10/16/2019,12.00,Leads,3,passed to another team,C2461,3958,693,3265,297,1949,987
+1994,2569,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,malware,1/9/2020,12.00,2/8/2020,30.00,Industry Partners,1,triage,C2850,7969,4491,3478,1311,1892,16
+1248,3378,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,malware,1/26/2019,779.00,2/7/2019,12.00,Leads,3,passed to another team,C1852,2818,2086,732,291,277,142
+2401,3316,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,malware,9/8/2019,"1,050.00",9/17/2019,9.00,News,1,triage,C2179,3630,1116,2514,2443,25,8
+1286,3585,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,hackers,3/22/2020,"1,246.00",4/9/2020,18.00,News,1,triage,C2906,5972,5355,617,117,426,37
+1026,3706,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,espionage,4/30/2020,"1,145.00",5/19/2020,19.00,Government Partners,2,investigating,C2080,3958,1962,1996,1715,254,25
+1565,4257,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,dangerous actors,9/27/2019,489.00,10/10/2019,13.00,Industry Partners,3,passed to another team,C1424,7342,2778,4564,1700,156,1789
+514,2213,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,human exploitation,2/15/2019,81.00,3/6/2019,19.00,Government Partners,1,triage,C2934,4492,1642,2850,346,2058,152
+1165,2152,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Closed,human exploitation,9/6/2019,284.00,9/25/2019,19.00,Leads,1,triage,C2217,8339,4017,4322,3792,370,103
+491,2129,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,child safety,9/18/2019,106.00,10/2/2019,14.00,News,3,passed to another team,C1019,4552,1862,2690,2504,43,86
+2456,2594,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,malware,2/22/2019,111.00,3/9/2019,15.00,Government Partners,3,passed to another team,C1117,9526,8216,1310,551,74,59
+374,3763,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,child safety,9/30/2019,7.00,10/21/2019,21.00,Leads,4,enforced,C1664,6024,1874,4150,3474,676,0
+1455,1032,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,espionage,3/13/2019,191.00,3/25/2019,12.00,Leads,4,enforced,C1584,1854,1008,846,364,169,271
+1096,3767,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,hackers,4/16/2019,"1,205.00",4/19/2019,3.00,Leads,4,enforced,C2216,1883,38,1845,966,754,2
+1413,3734,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,malware,7/8/2019,508.00,7/17/2019,9.00,Leads,1,triage,C1122,3651,3527,124,94,27,2
+1498,1133,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,espionage,9/29/2019,"1,162.00",10/10/2019,11.00,Government Partners,2,investigating,C1661,4104,2389,1715,716,782,199
+300,4054,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,hackers,9/7/2019,498.00,9/22/2019,15.00,Government Partners,4,enforced,C1877,7728,4295,3433,2649,278,89
+2999,2077,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,child safety,7/22/2019,936.00,7/29/2019,7.00,News,4,enforced,C1614,2826,1747,1079,441,324,157
+199,4017,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,human exploitation,5/1/2020,378.00,5/18/2020,17.00,Government Partners,3,passed to another team,C1567,5862,2232,3630,665,1429,1044
+1144,2007,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,espionage,4/26/2020,672.00,5/9/2020,13.00,Discovery,4,enforced,C1059,9921,4049,5872,2913,1953,1004
+992,4642,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,malware,9/19/2019,995.00,9/21/2019,2.00,News,3,passed to another team,C2854,8072,5916,2156,1201,441,432
+2423,2705,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,child safety,3/2/2020,"1,260.00",3/19/2020,17.00,News,4,enforced,C1269,828,132,696,47,96,329
+1211,3446,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,malware,8/31/2019,"1,258.00",9/2/2019,2.00,News,4,enforced,C2488,1318,1195,123,38,38,38
+2858,1820,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,dangerous actors,6/21/2019,"1,121.00",7/14/2019,23.00,Leads,4,enforced,C1344,9800,8947,853,704,15,72
+1865,1612,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,human exploitation,4/12/2020,446.00,4/15/2020,3.00,Industry Partners,2,investigating,C1040,9602,2555,7047,6305,728,12
+106,4570,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,human exploitation,8/6/2019,137.00,8/14/2019,8.00,Discovery,3,passed to another team,C1407,7777,780,6997,5966,266,742
+1064,4246,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,human exploitation,7/23/2019,"1,307.00",8/14/2019,22.00,Government Partners,4,enforced,C1434,3250,2963,287,206,56,5
+2038,3425,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,5/22/2019,"1,347.00",6/2/2019,11.00,News,4,enforced,C2426,7474,437,7037,4107,2660,161
+1048,4042,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,dangerous actors,1/6/2020,143.00,2/5/2020,30.00,News,3,passed to another team,C2335,9220,6189,3031,301,2533,152
+847,3389,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,human exploitation,3/31/2020,440.00,4/28/2020,28.00,Government Partners,3,passed to another team,C1528,3034,12,3022,516,958,253
+39,2393,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,malware,5/23/2019,345.00,6/20/2019,28.00,Leads,1,triage,C1072,2953,2256,697,310,323,32
+1915,3604,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,espionage,9/20/2019,111.00,10/7/2019,17.00,Government Partners,3,passed to another team,C1289,9920,4063,5857,1669,3668,371
+1116,4685,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,dangerous actors,5/11/2019,803.00,6/7/2019,27.00,News,2,investigating,C2143,4178,2637,1541,857,424,58
+2849,3552,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,child safety,6/8/2019,603.00,6/15/2019,7.00,Discovery,3,passed to another team,C1636,6235,2606,3629,889,2226,276
+99,2260,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,malware,1/6/2019,574.00,1/26/2019,20.00,News,4,enforced,C2360,4943,885,4058,1838,79,1571
+2989,1405,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,child safety,9/13/2019,811.00,10/9/2019,26.00,Government Partners,1,triage,C2400,5830,2172,3658,1971,491,550
+203,1601,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,human exploitation,11/24/2019,"1,155.00",11/30/2019,6.00,News,4,enforced,C2055,1612,1388,224,56,121,36
+79,2395,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,child safety,10/8/2019,370.00,10/25/2019,17.00,Leads,3,passed to another team,C2128,1932,1268,664,533,4,118
+1999,2822,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,human exploitation,10/5/2019,"1,088.00",10/6/2019,1.00,News,4,enforced,C2665,803,582,221,156,47,17
+18,1955,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,child safety,3/26/2019,901.00,4/8/2019,13.00,Industry Partners,1,triage,C2285,7457,3850,3607,2301,461,761
+966,4965,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,dangerous actors,8/2/2019,377.00,8/21/2019,19.00,Industry Partners,3,passed to another team,C1925,8639,1779,6860,5082,693,926
+2233,3139,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,dangerous actors,7/12/2019,79.00,7/20/2019,8.00,News,3,passed to another team,C2410,8251,1057,7194,6468,545,39
+1493,1220,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,espionage,5/27/2019,590.00,6/20/2019,24.00,Leads,2,investigating,C2548,1806,88,1718,556,749,290
+1183,4139,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,dangerous actors,9/11/2019,"1,352.00",10/9/2019,28.00,Discovery,4,enforced,C1997,2176,1778,398,73,192,61
+743,4472,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,human exploitation,9/17/2019,940.00,10/2/2019,15.00,Leads,2,investigating,C1557,5857,2335,3522,1620,55,335
+350,3090,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,malware,7/1/2019,394.00,7/3/2019,2.00,Discovery,1,triage,C1874,9225,5393,3832,3796,30,0
+918,3995,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,human exploitation,2/26/2020,"1,131.00",3/12/2020,15.00,Government Partners,4,enforced,C1817,9814,7251,2563,1779,390,303
+2074,3500,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,human exploitation,4/5/2019,195.00,4/22/2019,17.00,Discovery,4,enforced,C1548,5777,1070,4707,3430,1134,50
+502,4336,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,espionage,1/7/2020,548.00,2/5/2020,29.00,News,2,investigating,C1173,3774,2374,1400,1274,104,0
+1428,4210,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,child safety,2/16/2019,"1,052.00",2/18/2019,2.00,News,3,passed to another team,C2518,419,82,337,79,170,68
+2351,3925,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,hackers,3/17/2020,756.00,4/11/2020,25.00,Government Partners,4,enforced,C2947,3498,410,3088,2696,201,79
+2609,4729,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,dangerous actors,2/12/2020,323.00,3/10/2020,27.00,News,1,triage,C1801,1679,732,947,705,83,141
+1589,1538,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,dangerous actors,9/2/2019,819.00,9/28/2019,26.00,Government Partners,3,passed to another team,C2318,5463,2075,3388,233,1957,177
+2779,3694,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,malware,3/24/2020,949.00,4/19/2020,26.00,Discovery,2,investigating,C2183,9636,6629,3007,16,1509,913
+221,3172,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,espionage,1/20/2019,"1,275.00",1/27/2019,7.00,Leads,1,triage,C2001,5820,3979,1841,1147,504,46
+1955,1236,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,hackers,2/25/2019,651.00,3/23/2019,26.00,Discovery,4,enforced,C1811,1005,936,69,2,43,3
+2950,4828,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,child safety,4/20/2020,403.00,5/19/2020,29.00,News,2,investigating,C2925,4988,3822,1166,679,351,72
+138,3010,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,espionage,7/20/2019,980.00,8/7/2019,18.00,Discovery,2,investigating,C1183,2431,2037,394,215,121,20
+656,1292,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,dangerous actors,5/1/2020,351.00,5/31/2020,30.00,News,4,enforced,C1760,9297,3364,5933,2662,338,2719
+2908,2658,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,malware,2/5/2019,714.00,3/5/2019,28.00,Leads,3,passed to another team,C1160,6486,3219,3267,37,65,719
+2387,2904,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,human exploitation,3/1/2020,"1,330.00",3/9/2020,8.00,Government Partners,4,enforced,C1910,4903,4704,199,104,59,12
+808,4601,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,espionage,9/15/2019,"1,201.00",9/19/2019,4.00,News,1,triage,C2889,6010,3336,2674,1844,68,591
+1936,3701,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,espionage,3/5/2019,416.00,4/4/2019,30.00,News,3,passed to another team,C2945,2717,522,2195,1055,159,765
+1102,2484,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,dangerous actors,3/10/2019,757.00,3/23/2019,13.00,Government Partners,3,passed to another team,C1410,87,75,12,7,0,0
+466,2289,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,human exploitation,8/26/2019,"1,382.00",8/29/2019,3.00,News,1,triage,C1824,4673,701,3972,1701,610,1627
+391,2506,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,human exploitation,1/23/2019,262.00,1/29/2019,6.00,Discovery,1,triage,C2748,2692,996,1696,1115,391,139
+2255,2280,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,malware,2/28/2019,"1,207.00",3/18/2019,18.00,Government Partners,4,enforced,C1128,4440,2717,1723,1278,229,153
+1740,1592,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,hackers,6/7/2019,161.00,6/19/2019,12.00,Industry Partners,1,triage,C2524,6026,4316,1710,977,318,152
+2051,4558,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,espionage,1/4/2020,499.00,1/20/2020,16.00,News,2,investigating,C2860,5078,4563,515,36,90,255
+2838,4214,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,human exploitation,3/4/2020,"1,221.00",3/28/2020,24.00,Discovery,2,investigating,C2181,1486,944,542,521,4,10
+1559,3103,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,malware,1/4/2020,173.00,1/17/2020,13.00,Government Partners,1,triage,C1227,7473,101,7372,2326,294,421
+380,3073,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,dangerous actors,12/23/2019,"1,276.00",12/30/2019,7.00,News,4,enforced,C2778,6415,5954,461,70,277,97
+1930,2959,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,human exploitation,9/15/2019,"1,379.00",9/23/2019,8.00,Discovery,1,triage,C1839,2999,1948,1051,880,75,93
+1738,2270,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,child safety,6/19/2019,"1,268.00",7/7/2019,18.00,News,4,enforced,C1793,9069,8589,480,281,9,61
+2457,2605,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,human exploitation,2/2/2020,"1,039.00",2/20/2020,18.00,Discovery,3,passed to another team,C2287,678,566,112,24,51,34
+1583,1578,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,2/21/2020,776.00,3/11/2020,19.00,News,4,enforced,C2553,1272,620,652,203,131,267
+2774,1859,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,child safety,4/9/2019,188.00,4/24/2019,15.00,Discovery,3,passed to another team,C1641,5033,3317,1716,33,1262,35
+1934,1568,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,espionage,1/17/2020,"1,101.00",1/28/2020,11.00,Government Partners,4,enforced,C2425,6796,2015,4781,3494,1270,9
+2225,3040,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,espionage,11/1/2019,"1,182.00",11/10/2019,9.00,Leads,2,investigating,C2707,2255,91,2164,556,141,1082
+1994,2283,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,hackers,12/18/2019,86.00,1/2/2020,15.00,Discovery,3,passed to another team,C1204,6950,522,6428,4590,1290,369
+2624,3032,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,child safety,5/27/2019,578.00,6/9/2019,13.00,Discovery,3,passed to another team,C2026,8398,4739,3659,704,2840,97
+2618,1649,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,espionage,4/19/2019,133.00,5/3/2019,14.00,Leads,2,investigating,C2729,5514,1360,4154,2422,909,404
+2591,2691,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,child safety,12/6/2019,876.00,12/10/2019,4.00,Discovery,1,triage,C2019,2907,1444,1463,271,592,344
+2653,4616,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,malware,6/3/2019,"1,317.00",6/13/2019,10.00,Leads,3,passed to another team,C2143,8606,6477,2129,1339,752,16
+1290,4490,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,espionage,4/24/2020,295.00,5/14/2020,20.00,Leads,1,triage,C1758,1994,715,1279,1148,74,32
+1221,4997,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,hackers,7/8/2019,984.00,7/24/2019,16.00,Industry Partners,1,triage,C2130,4000,3956,44,33,7,3
+2424,4070,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,hackers,3/8/2020,"1,352.00",3/23/2020,15.00,News,1,triage,C1838,5972,2282,3690,725,1002,938
+2020,2061,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,dangerous actors,9/6/2019,847.00,9/10/2019,4.00,Discovery,1,triage,C2278,7210,5916,1294,346,638,97
+2460,4395,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,espionage,9/1/2019,"1,099.00",9/21/2019,20.00,Leads,2,investigating,C2538,938,550,388,123,87,21
+1375,4000,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,espionage,9/29/2019,"1,355.00",10/8/2019,9.00,Government Partners,2,investigating,C2330,5870,2818,3052,658,1054,48
+2608,2194,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,espionage,3/2/2020,"1,361.00",3/30/2020,28.00,Industry Partners,4,enforced,C1742,5170,2616,2554,1684,637,222
+375,1636,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,human exploitation,1/22/2019,777.00,2/6/2019,15.00,Discovery,2,investigating,C1977,1328,595,733,35,552,41
+921,2498,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,dangerous actors,8/31/2019,129.00,9/5/2019,5.00,Leads,1,triage,C1352,4060,646,3414,387,2695,258
+338,3115,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,human exploitation,8/21/2019,726.00,9/14/2019,24.00,Industry Partners,1,triage,C2816,9421,9356,65,6,40,19
+2196,1059,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,espionage,8/4/2019,"1,154.00",8/24/2019,20.00,Leads,3,passed to another team,C1467,1319,141,1178,341,517,303
+2866,3024,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,hackers,4/10/2020,"1,031.00",4/17/2020,7.00,Industry Partners,1,triage,C2846,3784,2126,1658,818,0,369
+160,4652,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,1/18/2020,"1,017.00",2/9/2020,22.00,Government Partners,1,triage,C1565,3517,1114,2403,1952,325,27
+183,2739,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,espionage,3/3/2020,178.00,3/28/2020,25.00,News,4,enforced,C2246,560,172,388,123,90,144
+1566,3532,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,hackers,3/24/2020,877.00,3/29/2020,5.00,Discovery,4,enforced,C1025,2370,1135,1235,127,476,8
+1600,1914,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,human exploitation,6/2/2019,830.00,6/18/2019,16.00,Government Partners,4,enforced,C2767,8094,5417,2677,457,1710,210
+669,2098,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,hackers,9/10/2019,22.00,10/6/2019,26.00,Discovery,4,enforced,C2288,2732,2458,274,268,0,2
+2077,3385,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,dangerous actors,1/14/2020,"1,035.00",1/29/2020,15.00,News,3,passed to another team,C2037,2929,1377,1552,613,282,141
+1553,4164,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,hackers,7/14/2019,341.00,7/28/2019,14.00,Discovery,2,investigating,C1162,3501,1907,1594,1085,157,180
+721,2759,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,child safety,4/13/2020,814.00,4/29/2020,16.00,Government Partners,2,investigating,C2923,5403,3973,1430,381,962,42
+2528,4596,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,2/2/2019,530.00,2/17/2019,15.00,Discovery,4,enforced,C2429,352,99,253,74,127,21
+864,2988,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,child safety,5/24/2019,"1,305.00",5/31/2019,7.00,Leads,3,passed to another team,C2984,2404,1239,1165,1139,25,1
+2587,1783,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Open,dangerous actors,12/29/2019,350.00,1/9/2020,11.00,Government Partners,2,investigating,C1875,6552,2291,4261,3309,486,347
+1481,2895,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,malware,9/20/2019,494.00,9/23/2019,3.00,Industry Partners,3,passed to another team,C1780,2923,2843,80,14,4,1
+2401,2840,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,child safety,1/17/2020,817.00,1/31/2020,14.00,Discovery,3,passed to another team,C2156,4190,180,4010,637,1453,1351
+73,4525,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,human exploitation,6/2/2019,"1,335.00",6/14/2019,12.00,Government Partners,3,passed to another team,C2333,652,514,138,134,4,0
+1563,3250,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,child safety,5/22/2019,258.00,6/5/2019,14.00,Government Partners,2,investigating,C2657,1998,518,1480,186,1136,35
+2789,2957,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,human exploitation,3/18/2020,501.00,3/25/2020,7.00,Government Partners,4,enforced,C2396,7163,2994,4169,2829,695,255
+1730,1246,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,espionage,11/29/2019,549.00,12/22/2019,23.00,Discovery,1,triage,C2481,1926,1243,683,455,39,95
+356,1565,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,hackers,3/24/2020,37.00,4/19/2020,26.00,Government Partners,4,enforced,C1379,2197,1209,988,933,43,2
+1639,3360,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,human exploitation,2/5/2019,400.00,2/18/2019,13.00,Discovery,1,triage,C2595,9320,5270,4050,1511,328,818
+1718,3489,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,dangerous actors,1/25/2020,552.00,2/7/2020,13.00,Leads,1,triage,C1828,98,46,52,14,35,2
+2891,4811,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,espionage,10/26/2019,582.00,11/10/2019,15.00,News,1,triage,C1141,1836,466,1370,1339,1,5
+2168,2031,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,dangerous actors,5/26/2019,"1,084.00",6/19/2019,24.00,Government Partners,2,investigating,C2341,3440,1202,2238,735,1053,159
+1338,2666,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Open,human exploitation,1/26/2020,"1,065.00",2/14/2020,19.00,News,2,investigating,C1462,6774,637,6137,2474,839,1156
+892,4859,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,malware,7/10/2019,659.00,7/26/2019,16.00,Government Partners,2,investigating,C2927,4060,590,3470,397,1496,461
+231,3620,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,child safety,2/12/2020,971.00,2/21/2020,9.00,Discovery,3,passed to another team,C2052,845,28,817,24,636,52
+321,1098,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,hackers,6/17/2019,666.00,6/20/2019,3.00,Government Partners,2,investigating,C2053,5449,1377,4072,134,3860,25
+205,4843,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,malware,8/1/2019,591.00,8/14/2019,13.00,Leads,2,investigating,C2562,3634,1364,2270,4,677,901
+1581,4827,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,child safety,4/21/2019,602.00,5/19/2019,28.00,Leads,4,enforced,C1305,3535,2256,1279,1011,253,5
+1244,3497,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,espionage,1/31/2019,884.00,2/13/2019,13.00,Leads,1,triage,C2208,3930,666,3264,120,3048,81
+823,3077,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,2/22/2019,490.00,3/7/2019,13.00,Discovery,1,triage,C2849,3640,1400,2240,6,1180,935
+2867,2235,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,hackers,1/19/2019,309.00,2/11/2019,23.00,Leads,4,enforced,C2245,4927,4408,519,360,58,3
+2718,1574,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,malware,4/14/2020,"1,342.00",4/15/2020,1.00,News,3,passed to another team,C1933,3153,3109,44,8,18,2
+1785,1347,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,dangerous actors,3/9/2020,627.00,3/18/2020,9.00,Discovery,2,investigating,C2106,3327,690,2637,2166,41,226
+1135,3031,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,malware,2/13/2020,318.00,3/12/2020,28.00,Government Partners,3,passed to another team,C1870,5706,2286,3420,1633,382,326
+1714,4360,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,child safety,1/28/2020,"1,134.00",2/3/2020,6.00,Leads,2,investigating,C1709,1567,1515,52,42,8,0
+1907,3497,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,2/3/2019,"1,368.00",2/24/2019,21.00,Discovery,1,triage,C2446,9980,9673,307,17,205,62
+1991,2955,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,espionage,5/27/2019,297.00,6/16/2019,20.00,News,3,passed to another team,C1528,3810,698,3112,449,2473,21
+696,4053,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,child safety,4/29/2019,"1,071.00",5/10/2019,11.00,Discovery,3,passed to another team,C1038,6379,2865,3514,1556,1058,578
+419,1374,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,dangerous actors,11/9/2019,"1,072.00",11/17/2019,8.00,Leads,2,investigating,C2016,4435,3582,853,269,34,147
+798,4747,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,espionage,1/27/2020,"1,280.00",2/16/2020,20.00,Government Partners,3,passed to another team,C2018,6077,930,5147,2708,1470,852
+1637,1301,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,malware,6/6/2019,"1,245.00",6/18/2019,12.00,Industry Partners,1,triage,C1811,5164,2501,2663,646,1408,473
+2269,1263,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,child safety,6/29/2019,"1,187.00",7/4/2019,5.00,Leads,4,enforced,C2904,1177,1053,124,37,46,28
+295,2917,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,child safety,5/31/2019,719.00,6/23/2019,23.00,News,2,investigating,C1064,7035,3188,3847,2878,414,493
+7,3283,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,human exploitation,9/8/2019,40.00,9/11/2019,3.00,Discovery,1,triage,C1414,9188,8541,647,491,39,34
+880,2921,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,child safety,4/11/2019,748.00,4/13/2019,2.00,Leads,2,investigating,C2628,1552,481,1071,593,394,29
+1254,1018,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,espionage,7/24/2019,"1,281.00",8/22/2019,29.00,Industry Partners,3,passed to another team,C2677,4138,2398,1740,766,49,508
+993,4225,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,human exploitation,5/15/2019,446.00,5/23/2019,8.00,Discovery,3,passed to another team,C1710,5839,1594,4245,2185,965,729
+10,4113,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,dangerous actors,9/7/2019,"1,104.00",10/3/2019,26.00,Industry Partners,3,passed to another team,C1751,5815,4028,1787,1771,16,0
+840,4361,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,child safety,9/14/2019,"1,329.00",9/17/2019,3.00,Industry Partners,3,passed to another team,C1736,2352,274,2078,345,1054,10
+1796,3227,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,dangerous actors,10/22/2019,"1,050.00",11/21/2019,30.00,News,3,passed to another team,C1918,4616,3194,1422,142,839,347
+1206,2052,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,child safety,11/24/2019,"1,307.00",12/1/2019,7.00,Industry Partners,4,enforced,C1144,4478,4332,146,52,1,78
+2159,4418,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,malware,10/11/2019,383.00,10/16/2019,5.00,Discovery,4,enforced,C2359,6290,5212,1078,905,138,5
+1124,4518,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,hackers,7/21/2019,892.00,7/22/2019,1.00,Leads,4,enforced,C2163,9341,4133,5208,4670,455,58
+1047,4325,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,hackers,3/17/2019,974.00,4/14/2019,28.00,Discovery,3,passed to another team,C2511,5094,1748,3346,1581,1650,40
+4,4685,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,dangerous actors,5/6/2019,844.00,5/21/2019,15.00,Government Partners,3,passed to another team,C1231,3890,358,3532,573,2833,27
+173,3453,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,espionage,8/26/2019,"1,008.00",9/22/2019,27.00,News,2,investigating,C2168,4279,121,4158,1816,1738,336
+1329,3451,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,espionage,12/13/2019,"1,212.00",12/17/2019,4.00,Leads,1,triage,C2833,9703,683,9020,8977,19,19
+521,2127,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,human exploitation,8/23/2019,496.00,9/21/2019,29.00,Government Partners,4,enforced,C2871,8891,7491,1400,1288,25,75
+2031,1215,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,human exploitation,6/5/2019,276.00,6/12/2019,7.00,Industry Partners,2,investigating,C1538,7063,2558,4505,1929,1644,917
+123,2358,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,human exploitation,11/9/2019,881.00,11/22/2019,13.00,Government Partners,3,passed to another team,C2079,4510,2457,2053,336,1527,84
+660,4172,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,espionage,5/2/2019,27.00,5/14/2019,12.00,News,3,passed to another team,C1801,5119,2927,2192,894,354,52
+1009,1678,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,child safety,8/23/2019,798.00,8/28/2019,5.00,Discovery,2,investigating,C1628,9227,2299,6928,5292,415,1152
+2190,3235,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,hackers,7/10/2019,206.00,7/18/2019,8.00,Leads,2,investigating,C1523,4271,859,3412,1962,760,557
+2032,1453,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,dangerous actors,9/22/2019,386.00,9/26/2019,4.00,Leads,4,enforced,C1874,60,24,36,11,9,6
+2172,1021,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,malware,10/1/2019,245.00,10/29/2019,28.00,News,3,passed to another team,C1936,3501,3121,380,80,243,55
+1985,1141,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,espionage,1/17/2019,"1,267.00",1/25/2019,8.00,Discovery,1,triage,C1442,2486,513,1973,1969,3,1
+2475,3265,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,malware,5/5/2019,"1,040.00",5/23/2019,18.00,News,2,investigating,C1488,1513,416,1097,80,501,366
+2865,1114,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,child safety,7/5/2019,154.00,7/21/2019,16.00,News,3,passed to another team,C2422,8298,2113,6185,704,4078,974
+2672,2418,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,espionage,6/3/2019,22.00,6/5/2019,2.00,News,2,investigating,C1131,626,491,135,38,36,11
+2918,2912,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,child safety,11/16/2019,"1,217.00",12/11/2019,25.00,Government Partners,2,investigating,C1040,7802,1912,5890,305,2641,1583
+1450,4449,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,hackers,5/14/2019,107.00,6/5/2019,22.00,Government Partners,3,passed to another team,C1750,3195,86,3109,2601,290,93
+697,2997,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,malware,1/2/2020,363.00,1/7/2020,5.00,Discovery,4,enforced,C2145,7644,3828,3816,2884,756,176
+130,1068,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,human exploitation,8/21/2019,"1,116.00",9/17/2019,27.00,Industry Partners,1,triage,C2960,5311,3187,2124,1162,679,134
+337,3327,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,dangerous actors,9/15/2019,"1,251.00",10/9/2019,24.00,News,3,passed to another team,C1111,2335,1677,658,398,240,12
+356,1464,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,human exploitation,3/27/2019,838.00,4/17/2019,21.00,Discovery,4,enforced,C1803,7262,4063,3199,1538,1603,18
+2421,3138,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,child safety,5/26/2019,414.00,6/18/2019,23.00,News,2,investigating,C2044,9898,5721,4177,997,1537,550
+421,3194,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,malware,11/21/2019,70.00,11/30/2019,9.00,Industry Partners,3,passed to another team,C1060,4309,454,3855,865,176,421
+2862,4721,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,dangerous actors,1/10/2019,545.00,2/8/2019,29.00,Industry Partners,2,investigating,C1245,4706,1269,3437,1103,2189,77
+2075,1073,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,malware,10/28/2019,"1,132.00",11/17/2019,20.00,Government Partners,4,enforced,C2139,9521,5313,4208,1223,2898,7
+355,3404,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,dangerous actors,11/15/2019,667.00,11/17/2019,2.00,Leads,4,enforced,C1891,2716,2113,603,597,0,4
+1449,3872,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,child safety,9/5/2019,147.00,9/16/2019,11.00,Industry Partners,3,passed to another team,C1473,9061,7342,1719,145,224,1122
+2820,2010,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,espionage,3/6/2019,405.00,3/20/2019,14.00,Leads,2,investigating,C2770,4201,1209,2992,913,240,1374
+1132,2375,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,human exploitation,8/4/2019,117.00,8/13/2019,9.00,News,1,triage,C2909,2459,829,1630,568,749,193
+2581,2778,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,malware,1/10/2019,"1,297.00",1/12/2019,2.00,Discovery,2,investigating,C1684,4486,3591,895,366,270,119
+2153,4297,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,espionage,2/3/2020,463.00,2/26/2020,23.00,Industry Partners,1,triage,C1640,437,218,219,152,11,27
+1366,2644,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,malware,6/21/2019,174.00,7/14/2019,23.00,Industry Partners,2,investigating,C2024,904,80,824,4,443,247
+2585,3586,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,child safety,6/24/2019,20.00,6/30/2019,6.00,Industry Partners,1,triage,C1572,2464,1240,1224,140,684,174
+791,1118,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,child safety,6/9/2019,835.00,6/29/2019,20.00,Government Partners,1,triage,C2885,9091,2764,6327,5744,521,41
+1516,4575,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,child safety,5/26/2019,254.00,6/16/2019,21.00,Government Partners,1,triage,C2884,3326,1687,1639,1046,375,105
+2364,3416,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,malware,10/31/2019,67.00,11/30/2019,30.00,Discovery,1,triage,C2394,2077,1428,649,187,11,443
+41,4036,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,hackers,2/20/2020,"1,301.00",3/1/2020,10.00,News,3,passed to another team,C2368,9165,1590,7575,6847,397,150
+2836,3344,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,human exploitation,1/6/2019,540.00,1/29/2019,23.00,Government Partners,4,enforced,C1558,1897,154,1743,298,468,49
+614,4617,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,human exploitation,1/30/2019,"1,074.00",2/2/2019,3.00,News,1,triage,C2758,8503,5095,3408,512,1737,637
+1519,2539,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,child safety,7/10/2019,307.00,8/4/2019,25.00,Discovery,1,triage,C1240,5189,4569,620,253,274,53
+2145,3091,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,malware,10/27/2019,632.00,11/5/2019,9.00,News,1,triage,C1490,9011,1561,7450,956,121,4959
+47,3383,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,child safety,4/15/2020,723.00,4/16/2020,1.00,News,4,enforced,C2115,7946,1027,6919,2373,3700,653
+798,1741,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,human exploitation,12/3/2019,939.00,12/17/2019,14.00,Industry Partners,3,passed to another team,C2887,4892,889,4003,1005,709,2210
+2536,2311,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,human exploitation,3/21/2020,826.00,4/15/2020,25.00,News,2,investigating,C1779,1711,32,1679,1063,506,24
+1719,1815,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,hackers,6/12/2019,69.00,6/28/2019,16.00,Leads,3,passed to another team,C1686,5660,756,4904,4201,215,341
+1758,2764,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,hackers,9/15/2019,141.00,10/4/2019,19.00,Industry Partners,1,triage,C2030,5417,4374,1043,252,311,124
+2445,2814,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,hackers,1/17/2020,250.00,1/19/2020,2.00,Discovery,1,triage,C2654,928,913,15,8,4,2
+244,4832,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Open,human exploitation,6/19/2019,662.00,6/29/2019,10.00,Industry Partners,1,triage,C1884,7500,2249,5251,1880,1384,785
+270,4476,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,hackers,12/27/2019,766.00,1/4/2020,8.00,Discovery,1,triage,C2176,90,87,3,1,1,0
+1267,2397,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,human exploitation,3/26/2020,"1,205.00",4/22/2020,27.00,Leads,3,passed to another team,C2678,9286,4429,4857,3194,137,8
+209,3052,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,human exploitation,1/17/2020,"1,275.00",2/3/2020,17.00,Discovery,3,passed to another team,C1402,2254,587,1667,1196,103,169
+2846,4424,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,child safety,7/1/2019,308.00,7/22/2019,21.00,Leads,4,enforced,C1840,5595,3434,2161,1420,251,394
+1857,3332,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,hackers,1/3/2019,639.00,1/11/2019,8.00,Industry Partners,1,triage,C2719,3003,2159,844,668,151,11
+767,1869,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,hackers,2/4/2020,166.00,2/21/2020,17.00,Government Partners,4,enforced,C1177,303,153,150,50,98,0
+2494,3059,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,child safety,1/29/2020,116.00,2/1/2020,3.00,Leads,4,enforced,C1704,6867,381,6486,3382,1426,651
+2573,3793,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,child safety,10/15/2019,"1,355.00",10/20/2019,5.00,Leads,4,enforced,C1131,2869,2838,31,11,1,18
+279,3697,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,hackers,1/25/2019,"1,164.00",1/28/2019,3.00,Industry Partners,1,triage,C1995,3547,1954,1593,545,405,371
+543,4484,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,dangerous actors,8/5/2019,724.00,8/30/2019,25.00,Industry Partners,4,enforced,C1054,1129,327,802,111,446,147
+802,4252,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,human exploitation,10/7/2019,379.00,10/30/2019,23.00,Leads,1,triage,C1688,8750,184,8566,3169,3039,2073
+146,2397,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,malware,4/3/2019,956.00,4/26/2019,23.00,Leads,4,enforced,C2492,8937,4134,4803,3384,168,92
+259,2838,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,malware,5/5/2019,74.00,5/26/2019,21.00,Discovery,4,enforced,C2506,8488,7986,502,400,99,2
+1939,2324,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,child safety,4/3/2020,544.00,4/14/2020,11.00,Industry Partners,3,passed to another team,C1391,7094,6901,193,141,50,2
+1812,4480,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,hackers,3/27/2020,867.00,4/17/2020,21.00,Industry Partners,2,investigating,C1405,5983,5112,871,763,26,31
+2546,1121,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,dangerous actors,2/20/2020,940.00,2/24/2020,4.00,News,1,triage,C1671,7249,5506,1743,1003,450,181
+721,4099,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,4/17/2020,822.00,5/3/2020,16.00,Discovery,3,passed to another team,C2658,8584,1967,6617,337,641,1453
+2310,3773,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,malware,8/7/2019,497.00,9/5/2019,29.00,Industry Partners,3,passed to another team,C1186,1931,1770,161,116,41,0
+455,2512,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,malware,9/15/2019,"1,206.00",9/27/2019,12.00,Discovery,1,triage,C2812,9526,4152,5374,3273,1842,213
+2623,1061,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,dangerous actors,6/13/2019,451.00,7/5/2019,22.00,Leads,3,passed to another team,C1610,8843,4582,4261,91,3147,489
+1377,2438,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,dangerous actors,12/24/2019,418.00,1/20/2020,27.00,Government Partners,4,enforced,C1858,9136,318,8818,3240,4856,229
+323,2198,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,human exploitation,12/28/2019,715.00,1/3/2020,6.00,News,3,passed to another team,C1639,8520,4471,4049,1594,226,1824
+865,3967,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,child safety,3/12/2019,579.00,4/2/2019,21.00,Government Partners,3,passed to another team,C1016,4660,1662,2998,286,1498,363
+1114,2083,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,child safety,10/15/2019,105.00,10/30/2019,15.00,Leads,2,investigating,C2062,8984,8246,738,698,20,20
+1735,3644,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,child safety,11/21/2019,473.00,12/5/2019,14.00,Discovery,3,passed to another team,C2071,4991,4696,295,101,113,7
+1616,4934,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,dangerous actors,3/13/2019,716.00,4/8/2019,26.00,Industry Partners,1,triage,C2216,6353,6204,149,129,11,1
+1931,2339,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,hackers,11/16/2019,83.00,12/4/2019,18.00,Government Partners,1,triage,C2199,7019,4475,2544,2253,135,143
+2637,4768,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,hackers,1/31/2020,754.00,2/10/2020,10.00,Government Partners,1,triage,C2097,1562,740,822,481,130,121
+1173,4560,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,hackers,7/31/2019,"1,368.00",8/5/2019,5.00,Industry Partners,1,triage,C1500,1377,783,594,513,37,38
+1920,2223,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,espionage,2/1/2020,"1,369.00",2/20/2020,19.00,Discovery,1,triage,C2530,9076,4959,4117,1554,891,800
+2242,2975,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,hackers,6/1/2019,589.00,6/19/2019,18.00,Industry Partners,3,passed to another team,C2801,3022,267,2755,1487,1161,51
+156,3490,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,dangerous actors,7/10/2019,300.00,7/16/2019,6.00,Discovery,3,passed to another team,C1365,1179,540,639,329,11,119
+60,1958,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,hackers,7/30/2019,27.00,8/26/2019,27.00,Government Partners,1,triage,C2869,5471,5205,266,157,104,2
+2304,4445,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,child safety,7/4/2019,"1,266.00",8/2/2019,29.00,Leads,3,passed to another team,C1276,5109,3493,1616,1061,432,0
+2487,1166,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,espionage,4/21/2020,703.00,5/15/2020,24.00,Government Partners,4,enforced,C1433,3898,3678,220,28,108,35
+2391,4566,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,espionage,4/20/2019,725.00,5/2/2019,12.00,Government Partners,3,passed to another team,C2530,4826,4164,662,17,212,310
+1890,1042,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,child safety,5/8/2019,786.00,5/21/2019,13.00,Discovery,4,enforced,C2108,6020,5694,326,14,205,57
+277,4723,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,human exploitation,9/8/2019,243.00,9/29/2019,21.00,Leads,4,enforced,C1804,1226,891,335,306,29,0
+882,1946,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,child safety,3/28/2019,88.00,4/11/2019,14.00,News,2,investigating,C1318,1425,159,1266,441,479,69
+2490,3768,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,dangerous actors,9/18/2019,914.00,9/21/2019,3.00,Government Partners,4,enforced,C1831,3898,357,3541,531,759,2078
+1150,1073,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,human exploitation,6/28/2019,"1,361.00",6/30/2019,2.00,Discovery,2,investigating,C1155,1327,343,984,193,187,488
+2935,4948,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,espionage,2/23/2020,"1,188.00",3/4/2020,10.00,Leads,2,investigating,C1220,3348,557,2791,1229,260,173
+1912,2783,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,child safety,7/30/2019,701.00,8/25/2019,26.00,Industry Partners,3,passed to another team,C1016,3734,2366,1368,1083,10,195
+1187,3985,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,dangerous actors,3/30/2020,591.00,4/9/2020,10.00,Government Partners,1,triage,C1435,5509,3171,2338,19,574,165
+1074,1255,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,hackers,1/11/2020,"1,276.00",2/8/2020,28.00,Industry Partners,1,triage,C1052,132,75,57,28,10,7
+1375,4252,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,hackers,6/5/2019,915.00,6/30/2019,25.00,Government Partners,1,triage,C2393,2788,1834,954,479,340,49
+597,3016,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,malware,1/10/2019,279.00,1/11/2019,1.00,Industry Partners,2,investigating,C2698,8532,5998,2534,1898,100,230
+494,2386,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,espionage,2/22/2019,350.00,3/21/2019,27.00,Leads,3,passed to another team,C1872,7500,2562,4938,3007,744,650
+2627,2758,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,hackers,3/4/2019,132.00,3/18/2019,14.00,Government Partners,1,triage,C2573,3322,408,2914,1745,477,37
+2994,2169,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Closed,hackers,2/1/2020,"1,315.00",2/24/2020,23.00,News,2,investigating,C1665,4354,2475,1879,1040,137,384
+670,3722,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,dangerous actors,10/27/2019,33.00,11/1/2019,5.00,Industry Partners,1,triage,C2275,2696,2485,211,23,8,90
+756,3182,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Closed,dangerous actors,5/22/2019,718.00,6/6/2019,15.00,Government Partners,1,triage,C1668,3996,584,3412,2441,263,517
+941,2621,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,espionage,4/11/2020,414.00,4/20/2020,9.00,Leads,3,passed to another team,C1166,8411,1216,7195,6780,364,16
+1236,1949,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,dangerous actors,3/7/2019,661.00,3/13/2019,6.00,Government Partners,1,triage,C1671,4126,2885,1241,924,92,63
+420,2629,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,child safety,6/28/2019,"1,039.00",6/29/2019,1.00,Discovery,4,enforced,C2351,5605,1631,3974,1341,570,1248
+2713,4920,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,malware,5/19/2019,"1,132.00",5/21/2019,2.00,Government Partners,4,enforced,C2106,9748,1631,8117,7122,169,60
+24,2331,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,malware,1/29/2020,"1,100.00",2/2/2020,4.00,Leads,3,passed to another team,C1231,3538,1246,2292,1716,574,0
+1705,4963,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,malware,11/16/2019,817.00,12/15/2019,29.00,Government Partners,2,investigating,C2237,7404,7176,228,224,0,1
+2526,2763,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,dangerous actors,3/24/2020,977.00,4/8/2020,15.00,Discovery,4,enforced,C1113,7766,6311,1455,132,537,483
+1916,2227,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,dangerous actors,12/2/2019,"1,262.00",12/5/2019,3.00,Discovery,3,passed to another team,C1919,732,293,439,133,304,2
+925,3935,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,human exploitation,5/12/2019,"1,356.00",5/30/2019,18.00,Discovery,3,passed to another team,C1363,2102,1929,173,143,30,0
+1449,4624,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,dangerous actors,6/18/2019,812.00,6/30/2019,12.00,Industry Partners,3,passed to another team,C1037,4645,1255,3390,2835,498,5
+61,4711,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,human exploitation,9/18/2019,"1,335.00",10/17/2019,29.00,Discovery,1,triage,C2069,3254,1525,1729,257,346,1026
+1568,3001,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,child safety,11/20/2019,"1,299.00",12/8/2019,18.00,Industry Partners,3,passed to another team,C1708,3355,2851,504,389,33,31
+531,3848,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,malware,4/6/2019,748.00,4/17/2019,11.00,Industry Partners,3,passed to another team,C1595,5071,1095,3976,2186,113,337
+1492,1943,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,child safety,11/21/2019,"1,153.00",12/7/2019,16.00,Discovery,3,passed to another team,C1398,1495,600,895,888,5,2
+829,4687,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,dangerous actors,4/8/2020,683.00,5/8/2020,30.00,News,2,investigating,C2817,9983,7846,2137,936,937,50
+2552,1288,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,espionage,8/15/2019,"1,256.00",9/1/2019,17.00,News,2,investigating,C2857,1815,576,1239,557,221,366
+2994,2888,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,malware,5/10/2019,"1,118.00",5/28/2019,18.00,Discovery,4,enforced,C1424,2252,1799,453,218,172,7
+1529,2591,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,dangerous actors,11/23/2019,776.00,12/9/2019,16.00,Discovery,4,enforced,C1460,2084,2047,37,35,1,1
+2487,2040,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,dangerous actors,3/23/2020,"1,039.00",4/10/2020,18.00,Leads,4,enforced,C1944,999,145,854,545,160,85
+2034,3425,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,human exploitation,1/22/2020,896.00,2/2/2020,11.00,Industry Partners,4,enforced,C2838,2042,211,1831,77,1218,268
+1218,2545,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,human exploitation,4/24/2020,380.00,5/8/2020,14.00,Government Partners,1,triage,C1871,171,20,151,134,7,0
+1912,1274,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,2/27/2020,506.00,3/5/2020,7.00,News,4,enforced,C2745,8765,4456,4309,373,1195,596
+340,2416,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,hackers,5/10/2019,"1,381.00",6/1/2019,22.00,Government Partners,3,passed to another team,C1571,2939,1462,1477,658,672,11
+1658,4485,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,child safety,3/7/2020,207.00,3/9/2020,2.00,Industry Partners,4,enforced,C1902,3551,712,2839,1169,902,504
+79,4164,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,espionage,10/3/2019,956.00,10/20/2019,17.00,News,2,investigating,C1767,538,363,175,172,3,0
+812,1268,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,dangerous actors,3/18/2019,270.00,4/4/2019,17.00,Government Partners,1,triage,C1119,9611,2539,7072,5586,301,778
+1409,2446,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,hackers,5/28/2019,690.00,6/6/2019,9.00,Government Partners,4,enforced,C1054,807,128,679,624,0,48
+929,1691,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,hackers,4/27/2019,939.00,5/17/2019,20.00,Industry Partners,3,passed to another team,C1394,6530,4201,2329,1193,870,200
+2945,1438,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,malware,12/3/2019,"1,178.00",12/11/2019,8.00,Industry Partners,1,triage,C1996,8827,3600,5227,765,2068,1962
+617,3084,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,hackers,9/11/2019,"1,275.00",9/30/2019,19.00,Government Partners,2,investigating,C1141,5065,3159,1906,1517,292,5
+1261,2693,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,malware,2/19/2020,691.00,3/1/2020,11.00,Government Partners,1,triage,C2941,9870,9281,589,267,290,24
+2947,3166,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,12/15/2019,51.00,12/22/2019,7.00,Leads,2,investigating,C1157,7933,4011,3922,622,115,2141
+2710,1511,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Closed,child safety,4/30/2020,"1,029.00",5/12/2020,12.00,Leads,1,triage,C1536,9891,3741,6150,2460,3041,408
+1305,2558,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Open,human exploitation,2/26/2020,"1,023.00",3/20/2020,23.00,Government Partners,3,passed to another team,C1769,9007,3640,5367,2489,1794,630
+2211,1494,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,child safety,11/6/2019,343.00,11/23/2019,17.00,News,3,passed to another team,C1385,9343,8503,840,702,11,50
+2153,4222,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,espionage,2/22/2020,563.00,2/23/2020,1.00,Industry Partners,1,triage,C2868,3525,2374,1151,1108,16,9
+2926,1970,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,dangerous actors,6/8/2019,305.00,6/13/2019,5.00,Discovery,4,enforced,C1773,3684,3541,143,60,50,12
+641,1056,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,espionage,4/9/2020,398.00,5/1/2020,22.00,Leads,4,enforced,C1607,5360,1633,3727,671,179,1889
+1875,1424,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Closed,malware,3/8/2020,420.00,3/27/2020,19.00,Government Partners,1,triage,C1946,5569,4223,1346,701,94,15
+265,3398,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,malware,3/17/2019,61.00,3/18/2019,1.00,Leads,3,passed to another team,C1489,4112,3797,315,165,94,32
+679,2175,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,hackers,2/27/2019,685.00,3/20/2019,21.00,News,2,investigating,C2809,2411,241,2170,47,36,653
+680,1014,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,hackers,2/3/2019,986.00,2/17/2019,14.00,Government Partners,3,passed to another team,C2967,9473,1427,8046,6938,666,157
+2578,4284,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,human exploitation,4/27/2020,364.00,5/12/2020,15.00,Government Partners,2,investigating,C1888,5963,4984,979,729,217,9
+1027,4540,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,3/5/2019,"1,213.00",3/23/2019,18.00,News,3,passed to another team,C2531,3603,92,3511,2811,315,171
+2654,1577,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,dangerous actors,2/27/2019,441.00,3/26/2019,27.00,Industry Partners,4,enforced,C1238,7430,2990,4440,3229,993,62
+84,2693,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,malware,11/15/2019,"1,190.00",12/10/2019,25.00,Discovery,4,enforced,C2293,7081,4332,2749,187,1760,573
+1933,3841,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,malware,11/18/2019,"1,212.00",11/29/2019,11.00,Discovery,1,triage,C1986,9920,6438,3482,1149,1877,252
+2817,3402,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,malware,2/23/2019,25.00,3/2/2019,7.00,Government Partners,1,triage,C2272,2631,1488,1143,516,263,263
+352,3094,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,espionage,9/3/2019,842.00,9/15/2019,12.00,Discovery,1,triage,C1257,2040,424,1616,1347,123,70
+1349,4833,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,dangerous actors,1/14/2019,"1,024.00",1/29/2019,15.00,Government Partners,4,enforced,C1794,5908,1766,4142,2021,826,738
+877,3999,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,hackers,12/13/2019,396.00,12/29/2019,16.00,Leads,1,triage,C2167,5224,4146,1078,95,450,461
+588,3675,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,espionage,12/5/2019,502.00,12/13/2019,8.00,Government Partners,4,enforced,C1735,7055,6476,579,441,62,18
+2664,4101,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,dangerous actors,1/22/2020,721.00,2/13/2020,22.00,News,3,passed to another team,C1820,4456,477,3979,294,1697,570
+997,2771,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,hackers,1/26/2020,373.00,1/30/2020,4.00,Discovery,1,triage,C1476,4471,2965,1506,556,257,199
+1708,1610,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,hackers,12/17/2019,"1,128.00",12/23/2019,6.00,Leads,2,investigating,C2266,5429,287,5142,2646,524,1418
+2936,3731,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,human exploitation,2/5/2019,824.00,3/7/2019,30.00,Government Partners,3,passed to another team,C2802,2769,974,1795,1387,238,83
+2935,1225,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,espionage,8/28/2019,"1,108.00",9/22/2019,25.00,News,3,passed to another team,C2082,4907,3770,1137,257,381,45
+2299,4657,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,dangerous actors,11/20/2019,"1,017.00",12/20/2019,30.00,Discovery,4,enforced,C2206,1211,1106,105,76,26,2
+2045,1872,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Closed,malware,3/28/2020,69.00,4/20/2020,23.00,Leads,1,triage,C1708,6853,4560,2293,227,498,496
+466,2046,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,hackers,8/7/2019,693.00,8/26/2019,19.00,Leads,3,passed to another team,C2577,8099,4484,3615,447,134,1767
+1342,1892,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,hackers,4/21/2019,385.00,5/4/2019,13.00,Leads,4,enforced,C1370,7638,2700,4938,132,22,3054
+24,1513,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,child safety,12/17/2019,870.00,12/24/2019,7.00,News,2,investigating,C2920,897,226,671,9,546,24
+1358,4045,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,human exploitation,11/13/2019,"1,209.00",11/17/2019,4.00,Leads,2,investigating,C1940,330,187,143,129,13,0
+2906,1935,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,child safety,2/26/2019,199.00,3/15/2019,17.00,Industry Partners,1,triage,C1897,4638,4369,269,19,131,77
+2809,1423,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,child safety,4/27/2019,21.00,4/29/2019,2.00,Government Partners,1,triage,C2529,9713,2348,7365,6414,794,156
+1117,2235,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,child safety,12/5/2019,446.00,12/30/2019,25.00,Industry Partners,1,triage,C2630,911,88,823,311,5,168
+524,2171,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,child safety,4/11/2020,"1,175.00",4/26/2020,15.00,Leads,2,investigating,C1111,6725,5061,1664,436,295,566
+1704,3102,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,espionage,2/28/2020,"1,124.00",3/23/2020,24.00,Discovery,4,enforced,C1672,1129,45,1084,251,666,47
+742,1543,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,child safety,8/25/2019,589.00,9/24/2019,30.00,News,2,investigating,C2635,6642,1725,4917,906,247,3732
+2110,3975,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Closed,child safety,3/16/2020,539.00,4/3/2020,18.00,Leads,2,investigating,C2506,8270,4670,3600,1250,842,1190
+2,1545,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,child safety,5/1/2020,429.00,5/22/2020,21.00,Leads,3,passed to another team,C1666,4087,3162,925,359,285,168
+2073,4490,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,malware,1/1/2020,150.00,1/30/2020,29.00,Leads,4,enforced,C2675,1112,907,205,119,27,38
+1767,2227,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,hackers,6/1/2019,141.00,6/25/2019,24.00,News,2,investigating,C2823,5241,679,4562,323,2544,353
+1399,3927,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,child safety,1/24/2019,700.00,2/19/2019,26.00,Industry Partners,2,investigating,C2972,369,176,193,87,22,71
+1518,4879,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Closed,child safety,5/7/2019,169.00,5/27/2019,20.00,Government Partners,4,enforced,C2261,6082,4723,1359,469,871,14
+2667,1977,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,hackers,7/16/2019,243.00,8/6/2019,21.00,Discovery,1,triage,C2321,4886,1664,3222,918,1311,824
+2132,2099,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,dangerous actors,9/23/2019,"1,395.00",10/16/2019,23.00,Leads,1,triage,C1218,4265,1632,2633,2161,168,228
+345,2179,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,human exploitation,10/12/2019,"1,140.00",11/4/2019,23.00,Government Partners,4,enforced,C1507,5326,1462,3864,163,562,978
+663,4413,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,5/22/2019,563.00,6/9/2019,18.00,Industry Partners,4,enforced,C1759,3012,1299,1713,711,833,135
+2253,1746,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,High,Open,espionage,11/4/2019,658.00,11/20/2019,16.00,Leads,1,triage,C2030,6509,2251,4258,824,1339,83
+2737,4981,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,child safety,3/29/2019,475.00,4/4/2019,6.00,News,4,enforced,C1827,3297,1837,1460,185,915,5
+471,1086,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,espionage,10/25/2019,"1,066.00",10/31/2019,6.00,Industry Partners,4,enforced,C2630,7201,5740,1461,370,387,201
+1599,3681,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,espionage,4/22/2020,837.00,5/13/2020,21.00,News,4,enforced,C2890,8451,4664,3787,478,1586,1145
+880,1431,345,FBI,10960,Juliana,Beard,Juliana Beard,Mid,Open,human exploitation,2/9/2019,"1,059.00",2/18/2019,9.00,Discovery,2,investigating,C2800,3543,856,2687,1839,89,366
+1734,3663,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,human exploitation,4/26/2019,"1,094.00",5/13/2019,17.00,News,2,investigating,C1651,1543,162,1381,570,525,112
+729,2508,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,hackers,4/27/2020,989.00,5/5/2020,8.00,Government Partners,3,passed to another team,C2393,8105,4555,3550,2962,99,192
+979,1184,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Open,espionage,3/4/2019,"1,284.00",3/25/2019,21.00,News,2,investigating,C2648,6325,1316,5009,1388,2745,557
+167,4681,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,hackers,7/22/2019,"1,059.00",7/26/2019,4.00,Government Partners,2,investigating,C2812,2357,2269,88,3,73,0
+1331,4645,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,espionage,5/26/2019,"1,074.00",6/15/2019,20.00,Industry Partners,2,investigating,C2258,8950,547,8403,4200,1511,388
+2103,4340,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,dangerous actors,11/11/2019,343.00,11/26/2019,15.00,Government Partners,4,enforced,C1681,4727,1451,3276,1381,1501,225
+435,1931,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,child safety,5/6/2019,284.00,5/29/2019,23.00,News,3,passed to another team,C1472,6173,4002,2171,327,562,340
+1434,2340,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,malware,12/9/2019,184.00,12/27/2019,18.00,News,1,triage,C1049,4678,2577,2101,883,1098,101
+864,1279,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,human exploitation,3/28/2019,"1,177.00",4/6/2019,9.00,Discovery,2,investigating,C2578,3799,746,3053,2894,124,9
+442,1857,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,espionage,2/5/2020,899.00,2/22/2020,17.00,Government Partners,4,enforced,C1538,478,399,79,53,9,4
+1334,1623,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,espionage,2/7/2020,"1,125.00",3/3/2020,25.00,Government Partners,2,investigating,C1824,6590,2726,3864,2808,113,151
+2411,3187,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Open,malware,4/14/2019,"1,284.00",5/8/2019,24.00,Discovery,3,passed to another team,C1212,1470,1107,363,31,295,19
+328,1720,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Open,dangerous actors,11/15/2019,189.00,11/17/2019,2.00,Leads,3,passed to another team,C2768,1461,112,1349,1089,255,4
+650,3755,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,child safety,8/5/2019,950.00,9/2/2019,28.00,Leads,4,enforced,C1845,3594,2952,642,253,173,203
+2176,4200,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,human exploitation,1/17/2020,"1,167.00",1/22/2020,5.00,Leads,2,investigating,C2909,733,446,287,33,196,1
+338,4999,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,child safety,5/17/2019,"1,177.00",6/13/2019,27.00,Industry Partners,4,enforced,C2517,8636,12,8624,2228,2587,787
+449,3986,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,dangerous actors,12/28/2019,998.00,1/20/2020,23.00,Government Partners,2,investigating,C2689,2908,484,2424,427,688,755
+2910,1086,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,espionage,9/12/2019,162.00,9/28/2019,16.00,Government Partners,2,investigating,C1738,2453,436,2017,90,1497,151
+2815,2504,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,espionage,2/17/2019,709.00,2/19/2019,2.00,Discovery,1,triage,C1980,9418,3832,5586,3361,1946,49
+208,2709,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,hackers,8/4/2019,"1,167.00",8/8/2019,4.00,Leads,1,triage,C2376,6176,626,5550,5178,46,153
+900,3654,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,dangerous actors,4/23/2020,"1,102.00",4/26/2020,3.00,News,1,triage,C2717,1841,1627,214,200,6,5
+812,3943,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Open,espionage,1/3/2019,162.00,1/8/2019,5.00,Discovery,2,investigating,C2380,2776,1786,990,390,490,105
+1767,2079,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,dangerous actors,6/21/2019,"1,255.00",6/24/2019,3.00,Leads,4,enforced,C1913,4069,2177,1892,1373,381,69
+1913,2506,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Low,Closed,child safety,9/18/2019,852.00,10/6/2019,18.00,News,2,investigating,C2406,4678,2742,1936,1425,19,240
+1627,3918,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,child safety,6/24/2019,152.00,7/5/2019,11.00,Discovery,2,investigating,C1421,2970,895,2075,446,1048,461
+734,1270,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,malware,7/8/2019,276.00,7/24/2019,16.00,Government Partners,1,triage,C1885,9174,7795,1379,929,425,8
+1142,3336,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,dangerous actors,11/27/2019,784.00,11/30/2019,3.00,Industry Partners,3,passed to another team,C1533,1262,797,465,209,249,6
+927,4946,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,espionage,1/25/2019,562.00,2/6/2019,12.00,News,3,passed to another team,C1725,7187,1524,5663,3344,2272,38
+199,1118,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,hackers,1/11/2019,"1,336.00",1/16/2019,5.00,News,3,passed to another team,C1967,6901,65,6836,5386,888,510
+2936,4093,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,human exploitation,2/12/2020,"1,038.00",2/29/2020,17.00,News,1,triage,C2530,2128,1579,549,35,337,146
+224,1866,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,dangerous actors,6/12/2019,"1,324.00",6/18/2019,6.00,Leads,4,enforced,C1596,375,45,330,50,169,89
+1124,4496,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Closed,espionage,11/15/2019,"1,166.00",12/1/2019,16.00,Industry Partners,3,passed to another team,C2088,2363,691,1672,351,925,144
+1896,1373,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Closed,espionage,11/16/2019,327.00,12/4/2019,18.00,Discovery,4,enforced,C1035,9824,4942,4882,823,3679,173
+2288,1266,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Open,malware,11/6/2019,869.00,11/19/2019,13.00,Discovery,2,investigating,C1723,3723,1147,2576,1790,486,216
+1477,4166,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,espionage,4/25/2020,574.00,4/27/2020,2.00,Industry Partners,2,investigating,C1227,5210,2417,2793,1021,1286,221
+1126,3419,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,malware,7/2/2019,543.00,7/21/2019,19.00,News,2,investigating,C2033,2951,1801,1150,1016,41,18
+1628,1571,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,malware,9/1/2019,271.00,9/2/2019,1.00,Industry Partners,1,triage,C2495,9990,3513,6477,3391,2131,223
+1548,1950,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,espionage,3/27/2019,388.00,4/22/2019,26.00,Industry Partners,4,enforced,C2660,2144,1822,322,63,117,14
+638,2769,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,child safety,6/19/2019,"1,359.00",7/13/2019,24.00,Leads,1,triage,C1141,9614,4105,5509,2029,1626,814
+462,2474,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,malware,11/13/2019,256.00,11/22/2019,9.00,Discovery,1,triage,C1952,9572,4420,5152,2425,1823,904
+1032,4709,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,espionage,5/2/2019,121.00,5/17/2019,15.00,Industry Partners,2,investigating,C1110,6850,2155,4695,3161,1521,2
+1547,4121,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Open,hackers,3/25/2020,618.00,3/31/2020,6.00,News,3,passed to another team,C2025,525,316,209,19,8,16
+1764,2600,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,human exploitation,3/15/2019,868.00,4/5/2019,21.00,News,2,investigating,C1017,9029,2887,6142,3252,1902,515
+2610,1658,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,human exploitation,3/15/2019,756.00,4/2/2019,18.00,Discovery,4,enforced,C2725,1888,1846,42,42,0,0
+2895,3474,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,dangerous actors,12/28/2019,"1,337.00",12/30/2019,2.00,Discovery,3,passed to another team,C1166,2757,1418,1339,259,912,0
+550,1773,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,child safety,4/12/2019,"1,038.00",4/14/2019,2.00,Discovery,3,passed to another team,C2716,8704,3406,5298,1330,2512,1325
+445,3277,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,malware,9/27/2019,199.00,10/15/2019,18.00,Leads,4,enforced,C1057,8361,8251,110,7,10,93
+2738,1046,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,child safety,4/2/2020,539.00,4/27/2020,25.00,Discovery,3,passed to another team,C1420,424,103,321,216,48,28
+1739,4966,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,child safety,4/15/2019,507.00,5/7/2019,22.00,Leads,2,investigating,C1041,1657,1259,398,208,17,101
+1446,4819,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Closed,hackers,4/17/2020,917.00,5/3/2020,16.00,Government Partners,2,investigating,C1112,9022,1178,7844,364,9,5232
+996,4187,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,dangerous actors,1/9/2019,"1,277.00",1/12/2019,3.00,Industry Partners,4,enforced,C1912,9892,6981,2911,424,1126,1094
+2753,2771,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Closed,dangerous actors,7/16/2019,880.00,8/15/2019,30.00,Government Partners,2,investigating,C2436,2267,2061,206,206,0,0
+2680,3548,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Open,hackers,1/29/2019,741.00,2/17/2019,19.00,Government Partners,4,enforced,C1481,3969,469,3500,668,886,857
+1263,3265,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,espionage,2/14/2019,828.00,3/3/2019,17.00,Government Partners,4,enforced,C1139,3325,1341,1984,1237,269,308
+2242,2336,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,hackers,6/9/2019,74.00,7/9/2019,30.00,News,3,passed to another team,C2930,3436,153,3283,2743,120,5
+2926,4271,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,malware,1/29/2019,728.00,2/27/2019,29.00,Leads,4,enforced,C1419,8421,7377,1044,605,134,4
+2735,2126,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,malware,9/1/2019,"1,132.00",9/17/2019,16.00,Government Partners,1,triage,C2616,1904,1666,238,187,41,7
+840,4902,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,dangerous actors,5/2/2019,609.00,5/14/2019,12.00,Industry Partners,4,enforced,C1073,8741,638,8103,3378,2316,893
+2576,1293,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Closed,malware,4/17/2020,967.00,4/25/2020,8.00,Leads,2,investigating,C1998,4818,786,4032,3126,490,147
+2074,4161,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,hackers,5/3/2019,559.00,5/30/2019,27.00,Government Partners,1,triage,C2325,6672,2997,3675,2458,187,148
+1520,2492,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,espionage,6/13/2019,"1,194.00",6/19/2019,6.00,Industry Partners,2,investigating,C2609,4738,419,4319,4217,15,37
+1252,1504,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,malware,2/21/2020,728.00,3/8/2020,16.00,Leads,2,investigating,C1862,1200,1022,178,145,14,0
+158,2977,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,5/7/2019,"1,070.00",5/30/2019,23.00,News,4,enforced,C1120,8963,1,8962,8938,10,3
+2915,3434,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,espionage,10/19/2019,601.00,11/4/2019,16.00,Industry Partners,1,triage,C1039,4948,3681,1267,496,563,117
+760,4877,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,hackers,2/25/2020,228.00,3/16/2020,20.00,Industry Partners,2,investigating,C1216,9861,618,9243,808,879,710
+2867,4476,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,espionage,3/26/2020,"1,206.00",4/4/2020,9.00,Industry Partners,2,investigating,C1574,9522,125,9397,4532,4512,18
+1659,4634,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Open,hackers,11/29/2019,"1,399.00",12/21/2019,22.00,Government Partners,2,investigating,C2310,7073,2055,5018,1380,2031,690
+822,4165,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,malware,2/13/2020,892.00,2/22/2020,9.00,News,1,triage,C2153,1120,558,562,396,109,44
+233,3520,345,FBI,16484,Davon,Weber,Davon Weber,Mid,Open,dangerous actors,8/30/2019,"1,267.00",9/8/2019,9.00,Government Partners,2,investigating,C2540,597,101,496,436,48,6
+614,4897,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,child safety,8/31/2019,580.00,9/4/2019,4.00,Industry Partners,4,enforced,C1529,3302,36,3266,3184,17,16
+1582,3013,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,human exploitation,12/26/2019,296.00,1/7/2020,12.00,Leads,4,enforced,C2376,8375,3098,5277,120,3014,274
+1800,1492,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Closed,hackers,1/21/2020,68.00,2/20/2020,30.00,Discovery,4,enforced,C2657,1957,919,1038,665,296,59
+699,2766,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,child safety,1/31/2019,30.00,2/27/2019,27.00,Government Partners,3,passed to another team,C2747,8367,5428,2939,2799,134,3
+1266,3097,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,dangerous actors,8/31/2019,431.00,9/20/2019,20.00,Industry Partners,4,enforced,C1644,4440,2444,1996,1377,502,79
+136,4569,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,human exploitation,3/3/2019,91.00,3/30/2019,27.00,Industry Partners,3,passed to another team,C2773,2144,618,1526,1248,276,2
+2058,4375,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,child safety,4/9/2020,"1,107.00",4/30/2020,21.00,Discovery,3,passed to another team,C1629,563,246,317,63,147,66
+2989,3121,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Closed,child safety,12/8/2019,990.00,1/2/2020,25.00,Government Partners,3,passed to another team,C2673,4747,843,3904,36,352,2084
+1164,3145,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,hackers,2/11/2020,367.00,2/12/2020,1.00,Government Partners,3,passed to another team,C1569,9603,7860,1743,920,690,55
+752,2481,345,FBI,10960,Juliana,Beard,Juliana Beard,High,Open,malware,9/21/2019,"1,056.00",10/5/2019,14.00,Government Partners,4,enforced,C1762,5267,4417,850,449,26,249
+2067,2460,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,malware,6/9/2019,"1,059.00",6/30/2019,21.00,Government Partners,2,investigating,C2264,4147,1985,2162,2004,106,36
+805,2673,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Closed,espionage,7/4/2019,361.00,7/6/2019,2.00,Discovery,3,passed to another team,C1835,2919,769,2150,773,957,119
+980,2088,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,child safety,2/1/2020,"1,215.00",2/18/2020,17.00,Government Partners,1,triage,C2319,3594,3345,249,30,101,45
+656,4330,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,espionage,8/5/2019,"1,230.00",8/10/2019,5.00,Discovery,3,passed to another team,C2880,8113,5832,2281,1633,426,30
+486,4399,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,espionage,1/15/2019,"1,230.00",1/27/2019,12.00,News,2,investigating,C2047,6266,3580,2686,414,791,1300
+2852,2441,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,human exploitation,9/2/2019,185.00,9/9/2019,7.00,Industry Partners,4,enforced,C1649,8914,6560,2354,1378,845,42
+2702,2273,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,hackers,3/26/2020,14.00,4/11/2020,16.00,Leads,2,investigating,C2252,4184,1470,2714,2032,25,497
+1504,2446,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,malware,4/5/2019,"1,315.00",4/8/2019,3.00,Leads,3,passed to another team,C1898,800,168,632,294,284,29
+813,2994,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,hackers,5/26/2019,95.00,6/22/2019,27.00,Leads,2,investigating,C2277,5669,4414,1255,607,0,350
+1713,2442,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Mid,Closed,hackers,12/30/2019,"1,202.00",1/1/2020,2.00,Leads,2,investigating,C1384,7974,7472,502,476,1,4
+1073,1772,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,child safety,7/25/2019,652.00,8/23/2019,29.00,Government Partners,4,enforced,C1520,1102,1081,21,17,4,0
+848,4315,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,human exploitation,9/21/2019,648.00,9/22/2019,1.00,Leads,4,enforced,C2335,9757,4069,5688,116,691,3408
+22,2844,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,malware,10/8/2019,870.00,10/19/2019,11.00,Industry Partners,4,enforced,C1700,1650,392,1258,224,927,0
+398,4660,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Closed,human exploitation,6/6/2019,52.00,6/28/2019,22.00,Discovery,2,investigating,C2771,79,40,39,7,8,10
+1299,4706,345,FBI,16484,Davon,Weber,Davon Weber,Low,Closed,hackers,3/8/2019,915.00,4/3/2019,26.00,News,1,triage,C2366,4639,3950,689,394,66,154
+1191,2802,345,FBI,16484,Davon,Weber,Davon Weber,High,Closed,espionage,2/6/2019,"1,077.00",2/22/2019,16.00,Industry Partners,3,passed to another team,C2916,6546,2179,4367,2943,1288,16
+1863,4455,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Open,dangerous actors,7/29/2019,369.00,8/1/2019,3.00,Leads,4,enforced,C2568,9925,9154,771,644,25,85
+1737,3604,123,CIA,18341,Josie,Mosley,Josie Mosley,Urgent,Closed,hackers,5/1/2020,399.00,5/31/2020,30.00,Government Partners,1,triage,C2055,7359,214,7145,3665,153,2480
+797,4155,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Urgent,Open,espionage,7/29/2019,775.00,8/22/2019,24.00,Industry Partners,4,enforced,C1060,8740,7719,1021,977,25,6
+638,1572,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,child safety,8/22/2019,"1,083.00",8/27/2019,5.00,Discovery,4,enforced,C1322,5837,4394,1443,178,600,100
+1862,3273,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,hackers,5/13/2019,22.00,5/21/2019,8.00,Government Partners,3,passed to another team,C1096,6243,4248,1995,1432,484,30
+1732,4769,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Closed,malware,3/31/2020,621.00,4/29/2020,29.00,Discovery,3,passed to another team,C1802,4512,763,3749,2433,23,1261
+1276,1429,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Closed,dangerous actors,3/28/2019,107.00,4/23/2019,26.00,Industry Partners,4,enforced,C2643,1981,1879,102,1,26,60
+1554,3742,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Closed,espionage,8/4/2019,34.00,8/19/2019,15.00,News,1,triage,C1102,5119,1545,3574,536,1308,354
+1398,4707,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,malware,3/19/2020,"1,079.00",3/30/2020,11.00,Government Partners,3,passed to another team,C1990,3787,1419,2368,105,1119,279
+1645,2057,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Closed,malware,1/26/2019,"1,009.00",2/20/2019,25.00,Discovery,4,enforced,C2728,776,292,484,340,45,89
+348,4562,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,child safety,6/16/2019,746.00,6/29/2019,13.00,News,2,investigating,C2152,3577,2064,1513,678,566,219
+311,1642,345,FBI,16484,Davon,Weber,Davon Weber,Low,Open,dangerous actors,1/19/2019,555.00,2/9/2019,21.00,Industry Partners,2,investigating,C2628,3572,2417,1155,953,44,69
+1522,4904,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Closed,child safety,4/24/2019,"1,118.00",5/18/2019,24.00,Industry Partners,2,investigating,C2481,879,23,856,435,11,332
+15,3130,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Low,Open,child safety,2/23/2020,"1,070.00",2/24/2020,1.00,Discovery,3,passed to another team,C2498,3667,2342,1325,1249,16,57
+2317,4240,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Open,human exploitation,11/6/2019,562.00,12/1/2019,25.00,Discovery,4,enforced,C1569,7836,7794,42,38,2,2
+2082,4496,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Open,hackers,3/16/2020,622.00,3/23/2020,7.00,Leads,1,triage,C2664,2286,1197,1089,653,131,231
+2479,1913,678,NAVY,22587,Athena,Clarke,Athena Clarke,High,Open,hackers,9/14/2019,546.00,10/1/2019,17.00,Government Partners,4,enforced,C1143,9095,6904,2191,691,14,781
+880,4606,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,malware,1/24/2019,"1,157.00",2/14/2019,21.00,Government Partners,1,triage,C1538,2103,595,1508,123,934,402
+1633,4754,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Closed,espionage,9/14/2019,415.00,9/28/2019,14.00,Industry Partners,3,passed to another team,C2301,7640,6249,1391,79,1157,32
+728,4874,678,NAVY,24458,Lamont,Shields,Lamont Shields,Mid,Open,espionage,1/9/2019,669.00,1/23/2019,14.00,Government Partners,1,triage,C2278,5727,1413,4314,2598,1328,185
+1116,2828,345,FBI,16484,Davon,Weber,Davon Weber,Urgent,Closed,child safety,4/5/2019,728.00,4/23/2019,18.00,News,1,triage,C2661,7480,7341,139,11,1,93
+2315,3216,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Mid,Closed,espionage,1/27/2020,415.00,2/1/2020,5.00,Government Partners,1,triage,C1658,6816,2053,4763,3692,160,467
+1901,3101,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,hackers,3/2/2020,"1,240.00",3/17/2020,15.00,Industry Partners,3,passed to another team,C2716,292,197,95,84,7,0
+1127,2015,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,human exploitation,1/19/2019,"1,147.00",1/26/2019,7.00,Industry Partners,1,triage,C1552,8287,3659,4628,717,830,380
+576,3608,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,espionage,3/22/2020,981.00,3/24/2020,2.00,Government Partners,4,enforced,C1644,8423,5912,2511,2352,93,5
+953,4240,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,dangerous actors,12/22/2019,"1,206.00",1/4/2020,13.00,Industry Partners,1,triage,C1542,6946,1662,5284,5169,68,42
+97,1034,678,NAVY,22587,Athena,Clarke,Athena Clarke,Urgent,Closed,dangerous actors,5/19/2019,752.00,6/4/2019,16.00,Discovery,4,enforced,C2977,2663,486,2177,1860,4,259
+2849,2373,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,child safety,3/16/2019,771.00,4/11/2019,26.00,Discovery,3,passed to another team,C1926,8403,4833,3570,146,848,2421
+1861,3494,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Open,child safety,11/7/2019,243.00,11/13/2019,6.00,Leads,3,passed to another team,C2659,2225,155,2070,931,432,653
+2398,2913,678,NAVY,24458,Lamont,Shields,Lamont Shields,Low,Closed,malware,10/26/2019,697.00,11/24/2019,29.00,Government Partners,3,passed to another team,C2043,592,146,446,3,231,134
+2981,2628,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Mid,Open,dangerous actors,6/10/2019,863.00,6/14/2019,4.00,Industry Partners,2,investigating,C1211,133,37,96,93,0,0
+800,1221,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,espionage,2/28/2019,406.00,3/18/2019,18.00,News,1,triage,C2816,7477,5,7472,2494,3084,35
+2983,3290,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,human exploitation,2/25/2019,302.00,3/23/2019,26.00,Government Partners,3,passed to another team,C1658,2317,586,1731,1451,29,223
+2456,4064,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Urgent,Closed,hackers,10/18/2019,394.00,11/13/2019,26.00,Leads,4,enforced,C1581,9082,4447,4635,3504,103,773
+1424,1858,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,dangerous actors,12/11/2019,"1,001.00",1/6/2020,26.00,Government Partners,2,investigating,C1929,2449,1364,1085,286,105,265
+1453,1713,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Low,Open,espionage,12/21/2019,269.00,1/4/2020,14.00,Industry Partners,2,investigating,C2648,227,88,139,92,21,6
+2555,2236,678,NAVY,24458,Lamont,Shields,Lamont Shields,Urgent,Open,dangerous actors,2/16/2019,824.00,3/9/2019,21.00,Government Partners,1,triage,C2191,173,93,80,35,34,5
+1775,1779,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,Urgent,Open,human exploitation,6/14/2019,"1,054.00",7/8/2019,24.00,Discovery,2,investigating,C1962,5602,4300,1302,427,35,695
+2595,4704,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,human exploitation,9/10/2019,750.00,9/20/2019,10.00,Government Partners,3,passed to another team,C1503,4133,1540,2593,2017,507,23
+442,1462,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,dangerous actors,4/11/2019,567.00,4/13/2019,2.00,Industry Partners,4,enforced,C1400,7755,1251,6504,3843,364,1062
+1734,3826,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Urgent,Closed,espionage,12/26/2019,184.00,1/7/2020,12.00,Government Partners,1,triage,C1949,9904,997,8907,2243,3567,641
+930,4738,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,human exploitation,10/30/2019,257.00,11/12/2019,13.00,Government Partners,2,investigating,C1424,8621,7189,1432,623,22,281
+1669,2465,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Closed,child safety,1/1/2020,"1,163.00",1/27/2020,26.00,Leads,2,investigating,C2549,814,721,93,57,18,18
+1730,3555,123,CIA,18341,Josie,Mosley,Josie Mosley,Low,Closed,hackers,4/25/2019,962.00,5/25/2019,30.00,Industry Partners,1,triage,C2359,5905,3734,2171,1258,362,533
+520,2612,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,espionage,3/5/2019,73.00,3/29/2019,24.00,News,1,triage,C1476,5069,1269,3800,261,2017,1283
+2122,3656,345,FBI,10960,Juliana,Beard,Juliana Beard,Urgent,Open,espionage,6/26/2019,902.00,7/19/2019,23.00,Industry Partners,2,investigating,C2858,5054,3135,1919,669,124,61
+844,1255,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Closed,human exploitation,6/26/2019,784.00,7/2/2019,6.00,Industry Partners,4,enforced,C1035,2171,1350,821,468,5,92
+170,4826,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Closed,hackers,1/12/2019,"1,041.00",1/25/2019,13.00,News,3,passed to another team,C2862,5008,156,4852,321,941,525
+387,3916,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Closed,malware,8/18/2019,"1,043.00",9/11/2019,24.00,Government Partners,4,enforced,C1207,6389,355,6034,1437,4411,106
+2526,3350,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,High,Closed,dangerous actors,10/7/2019,286.00,10/27/2019,20.00,Discovery,1,triage,C2754,6948,2016,4932,4049,708,107
+2129,1049,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Mid,Open,malware,4/22/2019,556.00,5/6/2019,14.00,Government Partners,3,passed to another team,C1140,3214,727,2487,2380,85,18
+1116,3306,678,NAVY,24458,Lamont,Shields,Lamont Shields,High,Open,dangerous actors,11/27/2019,166.00,12/13/2019,16.00,News,1,triage,C1557,639,539,100,83,11,2
+1266,2313,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Open,human exploitation,1/15/2020,"1,200.00",1/20/2020,5.00,Leads,3,passed to another team,C1392,8160,1571,6589,1740,2861,1147
+877,3016,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Closed,human exploitation,12/21/2019,"1,326.00",1/3/2020,13.00,News,1,triage,C2711,422,341,81,30,10,1
+1424,2198,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Open,malware,10/17/2019,"1,142.00",11/11/2019,25.00,Leads,2,investigating,C2964,8830,1181,7649,5309,2048,119
+811,4942,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Low,Open,hackers,7/14/2019,205.00,8/9/2019,26.00,Industry Partners,2,investigating,C2918,8763,3792,4971,1836,423,2009
+813,4884,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Urgent,Open,malware,12/6/2019,"1,224.00",12/28/2019,22.00,Discovery,2,investigating,C1907,2400,1263,1137,88,281,125
+207,4589,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Open,espionage,4/18/2019,"1,035.00",5/12/2019,24.00,Industry Partners,4,enforced,C2063,5897,2932,2965,1634,1331,0
+2016,1984,123,CIA,35382,Cherish,Alvarez,Cherish Alvarez,High,Closed,hackers,11/20/2019,353.00,12/13/2019,23.00,Discovery,3,passed to another team,C1502,4309,1673,2636,760,1618,51
+2562,4984,901,ARMY,24691,Jaeden,Mcintyre,Jaeden Mcintyre,Low,Open,malware,7/5/2019,791.00,7/27/2019,22.00,News,3,passed to another team,C2558,2088,363,1725,207,552,649
+1863,3408,345,FBI,10960,Juliana,Beard,Juliana Beard,Low,Closed,hackers,7/22/2019,"1,037.00",8/6/2019,15.00,News,4,enforced,C1483,3403,1402,2001,1019,234,38
+1643,4437,123,CIA,22116,Dominique,Skinner,Dominique Skinner,High,Closed,human exploitation,2/15/2019,"1,191.00",2/22/2019,7.00,Leads,3,passed to another team,C1577,3893,3447,446,162,50,17
+2636,4569,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Low,Open,espionage,6/16/2019,358.00,6/17/2019,1.00,News,3,passed to another team,C1567,2881,1595,1286,1038,175,57
+2209,3925,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,4/10/2019,"1,205.00",4/14/2019,4.00,Government Partners,3,passed to another team,C1311,9057,8775,282,143,112,8
+839,4072,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,High,Open,dangerous actors,7/25/2019,"1,209.00",8/7/2019,13.00,Industry Partners,4,enforced,C2463,4945,4732,213,167,17,26
+1921,2119,678,NAVY,22587,Athena,Clarke,Athena Clarke,Low,Open,hackers,4/1/2020,833.00,4/13/2020,12.00,Discovery,1,triage,C2043,1244,1225,19,14,3,1
+2728,4612,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Mid,Open,malware,4/6/2019,162.00,4/19/2019,13.00,Discovery,1,triage,C2686,5132,3549,1583,538,926,75
+97,3387,345,FBI,34617,Jennifer,Rowland,Jennifer Rowland,Urgent,Open,dangerous actors,6/25/2019,465.00,7/7/2019,12.00,Leads,3,passed to another team,C1949,2177,710,1467,752,615,60
+770,1693,345,FBI,16484,Davon,Weber,Davon Weber,High,Open,hackers,6/14/2019,581.00,6/23/2019,9.00,Discovery,2,investigating,C1821,8847,4500,4347,1213,1304,1186
+705,1602,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,High,Open,human exploitation,4/13/2020,184.00,5/10/2020,27.00,Industry Partners,2,investigating,C2085,8665,335,8330,7991,185,50
+2567,1853,123,CIA,30491,Tyree,Clarke,Tyree Clarke,Mid,Open,child safety,4/15/2019,261.00,4/23/2019,8.00,Discovery,4,enforced,C2459,8845,5903,2942,673,1958,39
+2726,2079,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Closed,malware,1/15/2019,206.00,2/8/2019,24.00,Industry Partners,2,investigating,C1898,5824,5289,535,152,255,52
+390,2088,123,CIA,18341,Josie,Mosley,Josie Mosley,High,Closed,human exploitation,3/4/2020,8.00,3/31/2020,27.00,Leads,3,passed to another team,C1928,261,119,142,35,105,2
+1993,1049,678,NAVY,22587,Athena,Clarke,Athena Clarke,Mid,Open,dangerous actors,9/17/2019,614.00,9/25/2019,8.00,Discovery,2,investigating,C2518,2901,2003,898,848,18,21
+1296,1123,123,CIA,22116,Dominique,Skinner,Dominique Skinner,Low,Open,human exploitation,4/16/2020,30.00,4/28/2020,12.00,Government Partners,2,investigating,C2327,6748,4274,2474,1654,532,198
+1378,3752,345,FBI,28860,Konnor,Mitchell,Konnor Mitchell,Urgent,Open,child safety,11/26/2019,538.00,12/24/2019,28.00,Discovery,1,triage,C2439,639,501,138,32,104,0
+621,2916,123,CIA,30491,Tyree,Clarke,Tyree Clarke,High,Open,child safety,9/19/2019,914.00,9/30/2019,11.00,Discovery,4,enforced,C1239,6842,113,6729,4178,1112,531
+1770,3204,123,CIA,18341,Josie,Mosley,Josie Mosley,Mid,Closed,dangerous actors,2/17/2019,392.00,3/12/2019,23.00,Industry Partners,4,enforced,C2207,586,264,322,150,63,45
+873,1538,901,ARMY,21357,Aisha,Parrish,Aisha Parrish,Mid,Closed,human exploitation,7/26/2019,645.00,8/16/2019,21.00,Government Partners,4,enforced,C2252,9997,3931,6066,1028,3011,1471

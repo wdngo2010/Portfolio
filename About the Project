@@ -1,0 +1,18 @@
+Problem:
+Team just migrated to a new case management tool. Coming from other source of knowledge management. With the old management, no process or metrics were built.
+Managers ability to have visibility oversight on their teams was all verbal. 
+
+Objective:
+1. Develop new processes that would allow workflows and protocols to be developed around invesitgations.
+2. Build out a dashboard that would give visibility to leadership on their teams
+
+Dashboard:
+1. https://public.tableau.com/profile/william.ngo#!/vizhome/DataAnalyst-Dashboard1/Operations?publish=yes
+ - Allows managers to be able to see input and output of all cases coming through their teams and others.
+ - What type of incident?
+ - Where was this incident targetted?
+2. https://public.tableau.com/profile/william.ngo#!/vizhome/DataAnalyst-WorkloadManagementReport/WorkloadManagementReport?publish=yes
+ - This will help managers have more visibility on workload of their team members
+ - how fast they respond to cases?
+ - Where are there best focused countries?
+ - What size are their networks they build?
